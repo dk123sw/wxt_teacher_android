@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/zsq_bg_color">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@color/title_bg_color">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="事项发布"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_fanhui"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/up_add"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="发布"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:layout_centerInParent="true"
+                android:id="@+id/up_release"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/choose_teacher"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:layout_gravity="center_vertical"
+        android:background="@color/title_color"
+        >
+
+
+        <TextView
+            android:id="@+id/choose_teacher_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:hint="选择老师"
+            android:paddingLeft="@dimen/activity_size_10"
+            android:textColorHint="@color/black"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/gray_arrow" />
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dip"
+        android:layout_alignParentBottom="true"
+        android:background="@color/zsq_bg_color" />
+
+    <EditText
+        android:id="@+id/homework_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="14sp"
+        android:background="@color/title_color"
+        android:hint="事项标题"
+        android:padding="10dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray2" />
+
+    <EditText
+        android:id="@+id/remark_on_content"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#fff"
+        android:gravity="top"
+        android:singleLine="true"
+        android:padding="@dimen/activity_size_10"
+        android:textSize="14sp"
+        android:hint="事项内容" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray2" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_size_10"
+        android:padding="@dimen/activity_size_10"
+        android:background="@color/white">
+
+        <cn.xiaocool.wxtteacher.ui.NoScrollGridView
+            android:id="@+id/homework_pic_grid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:horizontalSpacing="@dimen/activity_size_3"
+            android:verticalSpacing="@dimen/activity_size_3"
+            android:listSelector="@color/white"
+            android:numColumns="4">
+
+        </cn.xiaocool.wxtteacher.ui.NoScrollGridView>
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

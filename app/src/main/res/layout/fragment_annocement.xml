@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.shenhe.AnnocementFragment">
+
+    <cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/activity_size_10"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/white"
+        android:id="@+id/announcement_list_content"
+        android:layout_weight="1">
+
+
+    </cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView>
+</FrameLayout>

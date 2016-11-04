@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_ground_color"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="@string/setting_help"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_fanhui"
+                android:id="@+id/me_help_setting_back" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+        <!--&lt;!&ndash;问题1&ndash;&gt;-->
+        <!--<TextView-->
+            <!--android:id="@+id/question1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_15"-->
+            <!--android:layout_marginTop="@dimen/activity_size_20"-->
+            <!--android:textSize="@dimen/activity_size_15"-->
+            <!--android:text="@string/setting_help_introduce_question1"-->
+            <!--android:textColor="@color/red"-->
+            <!--/>-->
+        <!--&lt;!&ndash; 回答1&ndash;&gt;-->
+        <!--<TextView-->
+            <!--android:id="@+id/answer1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_30"-->
+            <!--android:layout_marginRight="@dimen/activity_size_15"-->
+            <!--android:layout_below="@+id/question1"-->
+            <!--android:layout_marginTop="@dimen/activity_size_5"-->
+            <!--android:textSize="14sp"-->
+            <!--android:text="@string/setting_help_introduce_answe1"-->
+            <!--android:textColor="@color/btn_gray_pressed"-->
+            <!--/>-->
+        <!--&lt;!&ndash;问题2&ndash;&gt;-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/question2"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/answer1"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_15"-->
+            <!--android:layout_marginTop="@dimen/activity_size_10"-->
+            <!--android:textSize="@dimen/activity_size_15"-->
+            <!--android:text="@string/setting_help_introduce_question2"-->
+            <!--android:textColor="@color/red"-->
+            <!--/>-->
+        <!--&lt;!&ndash; 回答2&ndash;&gt;-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_30"-->
+            <!--android:layout_marginRight="@dimen/activity_size_15"-->
+            <!--android:layout_below="@+id/question2"-->
+            <!--android:layout_marginTop="@dimen/activity_size_5"-->
+            <!--android:textSize="14sp"-->
+            <!--android:text="@string/setting_help_introduce_answe2"-->
+            <!--android:textColor="@color/btn_gray_pressed"-->
+            <!--/>-->
+
+    <!--</RelativeLayout>-->
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+
+</LinearLayout>

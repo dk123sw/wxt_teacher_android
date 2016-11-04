@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="68dp"
+    android:layout_marginTop="@dimen/activity_size_1"
+    android:id="@+id/news_parents_told"
+    android:orientation="vertical"
+    android:background="@color/whilte">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <!--家长叮嘱左边的小图标-->
+        <ImageView
+            android:id="@+id/news_hot_news"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/news_parents_told"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!--文字-->
+            <TextView
+                android:id="@+id/news_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/news_parents_told1"
+                android:textSize="16sp"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/black"
+
+
+                />
+            <!--文字下面介绍-->
+
+            <TextView
+                android:id="@+id/parent_warn_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/news_parents_told2"
+                android:textSize="14sp"
+                android:layout_below="@+id/news_text1"
+                android:layout_marginTop="3dp"
+                android:textColor="@color/color_gray"
+                android:layout_marginLeft="10dp"
+
+
+                />
+
+
+        </RelativeLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"
+        android:layout_alignParentBottom="true"
+        />
+
+</LinearLayout>

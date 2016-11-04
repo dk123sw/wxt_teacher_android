@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/informations_title"
+        android:layout_width="match_parent"
+        android:layout_height="60dip"
+        android:background="#9be5b4">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/activity_size_10"
+            android:text="动态"
+            android:textColor="@color/title_color"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/add_trends"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/activity_size_10"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/ic_fabiao" />
+
+
+    </RelativeLayout>
+
+
+
+    <cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView
+        android:id="@+id/lv_comprehensive"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/informations_title"
+        android:scrollbars="none" />
+
+    <LinearLayout
+        android:id="@+id/edit_and_send"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#fff"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:src="@drawable/type_select_btn_nor" />
+
+        <EditText
+            android:id="@+id/parent_warn_comment_edit"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="5"
+            android:background="@drawable/bg_edittext"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:hint="请输入..."
+            android:padding="5dp" />
+
+        <Button
+            android:id="@+id/btn_parent_send"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_cuiyixia"
+            android:text="发送"
+            android:textColor="@color/white"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+</RelativeLayout>

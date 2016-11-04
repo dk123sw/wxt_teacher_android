@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="segmentcontrol-1.14">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.7heaven.widgets/segmentcontrol/1.14/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.7heaven.widgets/segmentcontrol/1.14/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.7heaven.widgets/segmentcontrol/1.14/261166acdec2ec72ea08f107794ea0ce29bc2a01/segmentcontrol-1.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

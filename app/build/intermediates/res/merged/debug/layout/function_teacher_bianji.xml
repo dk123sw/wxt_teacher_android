@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+
+    >
+
+    <RelativeLayout
+        android:id="@+id/relative1"
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="编辑资料"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/left_jiantou"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="保存"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textColor="@color/whilte"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="20dp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_below="@+id/relative1"
+        android:background="@color/view_color">
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relative2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/relative1"
+        android:layout_marginTop="8dp"
+        android:background="@color/whilte"
+        >
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="头像:"
+            android:textSize="30dp"
+            android:gravity="center"
+            />
+        <cn.xiaocool.wxtteacher.ui.RoundImageView
+            android:id="@+id/iv_me_fragment_avatar"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:scaleType="centerInside"
+            android:src="@drawable/default_avatar"
+            android:layout_marginLeft="@dimen/activity_size_20"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="39dp" />
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_below="@+id/relative2"
+        android:background="@color/view_color"
+        >
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relative3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/relative2"
+        android:layout_marginTop="8dp"
+        android:background="@color/whilte"
+        >
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="姓名:"
+            android:textSize="30dp"
+            android:gravity="center"
+            />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:text="王丹"
+            android:textSize="30dp"
+            android:layout_marginLeft="@dimen/activity_size_20"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="8dp"
+           />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relative4"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_below="@+id/relative3"
+        android:background="@color/view_color"
+        >
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/relative_six"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        android:layout_below="@+id/relative4">
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="性别:"
+            android:textSize="30dp"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/six"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:text="男"
+            android:textSize="30dp"
+            android:layout_marginLeft="@dimen/activity_size_20"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="8dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            />
+    </RelativeLayout>
+
+
+
+    <!--头像-->
+
+
+        <!--&lt;!&ndash;头像右边文字姓名&ndash;&gt;-->
+        <!--<TextView-->
+            <!--android:id="@+id/teacher_name"-->
+            <!--android:layout_width="@dimen/activity_size_120"-->
+            <!--android:layout_height="@dimen/activity_size_25"-->
+            <!--android:text="@string/teacher_name"-->
+            <!--android:textSize="@dimen/text_size_20"-->
+            <!--android:textColor="@color/green"-->
+            <!--android:layout_toRightOf="@+id/iv_me_fragment_avatar"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_20"-->
+            <!--android:layout_marginTop="@dimen/activity_size_15"-->
+
+            <!--/>-->
+
+
+        <!--&lt;!&ndash;头像右边文字介绍&ndash;&gt;-->
+        <!--<TextView-->
+            <!--android:id="@+id/teacher_introduce"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="@dimen/activity_size_25"-->
+            <!--android:text="@string/teacher_introduce"-->
+            <!--android:textSize="@dimen/text_size_15"-->
+            <!--android:textColor="@color/gray"-->
+            <!--android:layout_toRightOf="@+id/iv_me_fragment_avatar"-->
+            <!--android:layout_below="@+id/teacher_name"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_20"-->
+            <!--android:layout_marginTop="@dimen/activity_size_5"-->
+
+            <!--/>-->
+
+        <!--&lt;!&ndash;文字介绍右边小图标&ndash;&gt;-->
+        <!--<ImageView-->
+            <!--android:layout_width="15dp"-->
+            <!--android:layout_height="15dp"-->
+            <!--android:layout_toRightOf="@+id/teacher_introduce"-->
+            <!--android:layout_below="@+id/teacher_name"-->
+            <!--android:background="@drawable/function_small_arrow"-->
+            <!--android:layout_marginLeft="@dimen/activity_size_5"-->
+            <!--android:layout_marginTop="@dimen/activity_size_5"-->
+
+            <!--android:id="@+id/imageView" />-->
+
+
+</RelativeLayout>

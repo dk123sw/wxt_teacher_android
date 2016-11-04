@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="5dp">
+
+    <!--防丢定位-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:background="#ffffff"
+        >
+        <!--定位图标-->
+        <ImageView
+            android:id="@+id/main_fangdiudingweitubiao"
+            android:layout_width="37dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="11dp"
+            android:layout_marginLeft="9dp"
+            android:background="@drawable/function_fangdiudingwei"
+            />
+        <!--防丢定位-->
+        <TextView
+            android:id="@+id/main_fangdiudingwei"
+            android:text="防丢定位"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_marginTop="13dp"
+            android:layout_marginLeft="56dp"
+            />
+        <!--宝宝当前位置-->
+        <TextView
+            android:text="显示宝宝当前位置"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_alignLeft="@+id/main_fangdiudingwei"
+            android:layout_below="@+id/main_fangdiudingwei"
+            android:layout_marginTop="3dp"/>
+        <!--右箭头-->
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="13dp"
+            android:background="@drawable/function_more_arrow"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.xiaocool.wxtteacher.main.WriteAnnouncementActivity">
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="发布公告"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/left_jiantou"
+                android:layout_centerVertical="true"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="35dp"
+            android:background="@color/title_bg_color"
+            android:text="发布"
+            android:onClick="sendAnnouncement"
+            android:textColor="@color/white"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_below="@id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/et_title"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@null"
+            android:singleLine="true"
+            android:layout_marginLeft="@dimen/activity_size_10"
+            android:hint="写下公告标题吧"/>
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="#e4e3e3"
+            android:layout_below="@id/et_title"/>
+        <EditText
+            android:id="@+id/et_content"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:gravity="top"
+            android:hint="写下公告内容吧"
+            android:background="@null"
+            android:layout_marginLeft="@dimen/activity_size_10"
+            android:layout_below="@id/line"
+            />
+        <View
+            android:id="@+id/line1"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="#e4e3e3"
+            android:layout_below="@id/et_content"/>
+        <GridView
+            android:id="@+id/noScrollgridview_release_img"
+            android:layout_width="290dp"
+            android:layout_height="350dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:horizontalSpacing="3dp"
+            android:numColumns="4"
+            android:scrollbars="none"
+            android:layout_below="@id/line1"
+            android:verticalSpacing="5dp" >
+        </GridView>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <cn.xiaocool.wxtteacher.ui.ReboundScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--        <include layout="@layout/web_recipes_item"></include>   -->
+
+            <!--
+                        <include layout="@layout/web_shipu_tuesday"></include>
+                        <include layout="@layout/web_shipu_wednesday"></include>
+                        <include layout="@layout/web_shipu_thursday"></include>
+                        <include layout="@layout/web_shipu_friday"></include>
+            -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="星期一"
+                android:textSize="@dimen/text_size_20"/>
+
+            <cn.xiaocool.wxtteacher.ui.BoundListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/recipes_list_monday">
+
+            </cn.xiaocool.wxtteacher.ui.BoundListView>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="星期二"
+                android:textSize="@dimen/text_size_20"/>
+
+            <cn.xiaocool.wxtteacher.ui.BoundListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/recipes_list_tuesday">
+
+            </cn.xiaocool.wxtteacher.ui.BoundListView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="星期三"
+                android:textSize="@dimen/text_size_20"/>
+
+            <cn.xiaocool.wxtteacher.ui.BoundListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/recipes_list_wednesday">
+
+            </cn.xiaocool.wxtteacher.ui.BoundListView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="星期四"
+                android:textSize="@dimen/text_size_20"/>
+
+            <cn.xiaocool.wxtteacher.ui.BoundListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/recipes_list_thursday">
+
+            </cn.xiaocool.wxtteacher.ui.BoundListView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="星期五"
+                android:textSize="@dimen/text_size_20"/>
+
+            <cn.xiaocool.wxtteacher.ui.BoundListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/recipes_list_friday">
+
+            </cn.xiaocool.wxtteacher.ui.BoundListView>
+
+
+
+        </LinearLayout>
+
+
+    </cn.xiaocool.wxtteacher.ui.ReboundScrollView>
+
+
+</LinearLayout>

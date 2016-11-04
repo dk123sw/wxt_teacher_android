@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="68dp"
+    android:background="@color/whilte"
+    android:layout_marginTop="1dp">
+
+<!--联系人标签-->
+    <!--左边的小图标-->
+    <ImageView
+        android:id="@+id/news_hot_news"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/news_contacts_head"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="13dp"
+        />
+    <!--名字-->
+    <TextView
+        android:id="@+id/news_text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/address_contacts1.7"
+        android:textSize="@dimen/text_size_18"
+        android:layout_toRightOf="@+id/news_hot_news"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="14dp"
+
+
+        />
+    <!--名字下面登录时间-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/address_contacts_endlogin"
+        android:textSize="@dimen/text_size_15"
+        android:layout_toRightOf="@+id/news_hot_news"
+        android:layout_below="@+id/news_text1"
+        android:layout_marginTop="1dp"
+        android:textColor="@color/gray"
+        android:layout_marginLeft="14dp"
+        />
+    <!--发消息图标-->
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/address_sendmessage"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/activity_size_100"
+        />
+    <!--打电话图标-->
+    <ImageView
+        android:layout_width="18dp"
+        android:layout_height="20dp"
+        android:background="@drawable/address_phone"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/activity_size_60"
+        />
+
+    <!--打电话2图标-->
+    <ImageView
+        android:layout_width="18dp"
+        android:layout_height="20dp"
+        android:background="@drawable/address_phone2"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/activity_size_20"
+        />
+
+
+
+</RelativeLayout>

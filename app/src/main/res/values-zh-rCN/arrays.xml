@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="OperationDelHelperLongClick">
+        <item>删除好友</item>
+    </string-array>
+    <string-array name="OperationDelWorkDiscussClick">
+        <item>删除本条评论</item>
+    </string-array>
+    <string-array name="OperationDelWorkClick">
+        <item>删除本条动态</item>
+    </string-array>
+    <string-array name="OperationDelConversationLongClick">
+        <item>删除会话</item>
+    </string-array>
+    <string-array name="OperationAgreeHelperLongClick">
+        <item>同意</item>
+        <item>拒绝</item>
+    </string-array>
+
+</resources>

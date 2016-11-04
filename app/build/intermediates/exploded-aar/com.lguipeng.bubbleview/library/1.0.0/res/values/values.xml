@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BubbleView"><attr format="dimension" name="arrowWidth"/><attr format="dimension" name="angle"/><attr format="dimension" name="arrowHeight"/><attr format="dimension" name="arrowPosition"/><attr format="color" name="bubbleColor"/><attr format="enum" name="arrowLocation"><enum name="left" value="0x00"/><enum name="right" value="0x01"/><enum name="top" value="0x02"/><enum name="bottom" value="0x03"/></attr></declare-styleable>
+    <!-- From: file:/E:/Android-Studio-WorkDir/BubbleView/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">bubbleview-library</string>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="blocksDescendants"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <cn.xiaocool.wxtteacher.ui.RoundImageView
+
+                android:id="@+id/iv_item_head"
+                android:layout_width="45.0dip"
+                android:layout_height="45.0dip"
+                android:layout_margin="5dip"
+                android:scaleType="centerInside"
+                android:src="@drawable/default_square" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout_profession_circle_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical" >
+
+                <!--<View-->
+                <!--android:layout_width="1dip"-->
+                <!--android:layout_height="20dip"-->
+                <!--android:layout_alignBottom="@+id/tv_profession_circle_item_name"-->
+                <!--android:layout_toRightOf="@+id/tv_profession_circle_item_name"-->
+                <!--android:background="@color/black" />-->
+
+
+                <TextView
+                    android:id="@+id/tv_item_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:paddingRight="5dip"
+                    android:text="少东家"
+                    android:textColor="@color/blue"
+                    android:textSize="18sp" />
+                <TextView
+                    android:id="@+id/tv_item_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="5dp"
+                    android:layout_alignParentRight="true"
+                    android:hint="time"
+
+                    />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout_profession_circle_item_content"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                >
+                <TextView
+                    android:id="@+id/tv_item_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="朋友圈测试"
+                    android:textColor="#555"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout_profession_circle_item_information"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#f4f5f7"
+                android:layout_marginRight="10dip" >
+
+                <ImageView
+                    android:id="@+id/iv_item_information"
+                    android:layout_width="40dip"
+                    android:layout_height="40dip"
+                    android:layout_margin="3dip"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/default_square" />
+
+                <TextView
+                    android:id="@+id/tv_profession_circle_item_information"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="5dip"
+                    android:gravity="center_vertical" />
+            </LinearLayout>
+
+
+            <cn.xiaocool.wxtteacher.ui.NoScrollGridView
+                android:id="@+id/gridView_profession_circle_item"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:horizontalSpacing="1dp"
+                android:numColumns="3"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="1dp"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

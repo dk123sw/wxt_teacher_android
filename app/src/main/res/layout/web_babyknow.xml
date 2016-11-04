@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:padding="10dp"
+    android:layout_marginTop="@dimen/activity_size_1">
+    <!--<ImageView-->
+        <!--android:id="@+id/web_babyknow_happy_pic"-->
+        <!--android:layout_width="40dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:background="@drawable/web_xingquban_aoshuban"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_marginLeft="15dp" />-->
+
+
+    <!--&lt;!&ndash;标题&ndash;&gt;-->
+    <!--<TextView-->
+        <!--android:id="@+id/web_babyknow_happy_title"-->
+        <!--android:layout_width="280dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="育儿知识大讲座！育儿知识普及活动开始了！欢迎前来。"-->
+        <!--android:textSize="15sp"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_marginLeft="70dp" />-->
+    <ImageView
+        android:id="@+id/web_babyknow_happy_pic"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:src="@drawable/default_square"/>
+    <TextView
+        android:id="@+id/web_babyknow_happy_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/web_babyknow_happy_pic" />
+    <TextView
+        android:id="@+id/web_babyknow_happy_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/web_babyknow_happy_pic"
+        android:layout_below="@id/web_babyknow_happy_title"/>
+</RelativeLayout>

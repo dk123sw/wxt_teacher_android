@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:orientation="horizontal">
+    
+    
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:orientation="horizontal">
+        
+        <cn.xiaocool.wxtteacher.ui.RoundImageView
+            android:id="@+id/teacher_avatar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/default_avatar"
+            android:layout_margin="@dimen/activity_size_10"/>
+        
+        <TextView
+            android:id="@+id/text_teacherName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="No data"
+            android:textSize="14sp" />
+        
+        
+    </LinearLayout>
+
+    
+
+    <!--<TextView-->
+        <!--android:id="@+id/text_teacherPhone"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_weight="2"-->
+        <!--android:layout_height="fill_parent"-->
+        <!--android:paddingBottom="6px"-->
+        <!--android:paddingLeft="40px"-->
+        <!--android:paddingTop="6px"-->
+        <!--android:text="No data"-->
+        <!--android:textSize="25sp" />-->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/sms"
+                android:layout_width="30dp"
+                android:layout_centerInParent="true"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_xiaoxi1" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+            <ImageView
+                android:id="@+id/call"
+                android:layout_width="27dp"
+                android:layout_centerInParent="true"
+                android:layout_height="27dp"
+                android:src="@drawable/ic_hujiao1" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

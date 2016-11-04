@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--装班级标签的布局-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="@color/whilte"
+    android:layout_marginTop="1dp"
+    android:orientation="vertical"
+    >
+
+    <!--第一条班级-->
+    <include layout="@layout/address_classgroup1"></include>
+    <!--第二条班级-->
+    <include layout="@layout/address_classgroup2"></include>
+    <!--第三条班级-->
+    <include layout="@layout/address_classgroup3"></include>
+    <!--第四条班级-->
+    <include layout="@layout/address_classgroup4"></include>
+
+
+</LinearLayout>

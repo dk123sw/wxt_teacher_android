@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="上一步经办人："
+            android:layout_margin="@dimen/activity_size_10"/>
+
+
+        <TextView
+            android:id="@+id/reciver_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="里雷"/>
+
+
+        <TextView
+            android:id="@+id/reciver_time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2012.12.3"
+            android:layout_margin="@dimen/activity_size_10"/>
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="上一步意见："
+            android:layout_margin="@dimen/activity_size_10"
+            android:layout_gravity="top" />
+
+
+        <TextView
+            android:id="@+id/reciver_feedback_text"
+            android:layout_marginTop="@dimen/activity_size_10"
+            android:layout_marginRight="@dimen/activity_size_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="里雷绝代商娇哦撒娇的哦司机的撒旦速度哦撒的就撒大家撒娇的可见撒开记得撒空间打开是"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

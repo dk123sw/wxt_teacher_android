@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="canlendar_text_color">#323232</color>
+    <color name="view_color">#dfdfdf</color>
+    <color name="red">#eb382f</color>
+    <color name="yellow">#ffff00</color>
+    <color name="green">#34be67</color>
+    <color name="white">#ffffff</color>
+    <color name="whilte">#ffffff</color>
+    <color name="gray">#b3b3b3</color>
+    <color name="gray2">#e5e5e5</color>
+    <color name="black2">#55ff0000</color>
+    <color name="blue">#2db3f8</color>
+    <color name="main_ground_color">#eff2f7</color>
+    <color name="title_color">#ffffffff</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <drawable name="color_red">#eb382f</drawable>
+    <drawable name="color_white">#ffffff</drawable>
+    <drawable name="color_black">#000000</drawable>
+    <drawable name="color_blue">#2db3f8</drawable>
+    <drawable name="color_green">#34be67</drawable>
+    <color name="title_text_color">#ffffffff</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="default_text">#ff454545</color>
+    <color name="default_desc">#ff747474</color>
+    <color name="default_desc_night">#ff505050</color>
+    <color name="subscribe_item_text_color_pressed_night">#ff303030</color>
+    <color name="subscribe_item_focused_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_drag_stroke_night">#ff464646</color>
+    <color name="subscribe_item_drag_bg_night">#ff252525</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_focused_bg_night">#ff252525</color>
+    <color name="subscribe_item_focused_stroke_night">#ff464646</color>
+    <color name="subscribe_item_selected_bg_night">#ff252525</color>
+    <color name="subscribe_item_selected_stroke_night">#ffbc494d</color>
+    <color name="subscribe_item_disabled_bg_night">#ff2b2b2b</color>
+    <item name="subscribe_item_disabled_stroke_night" type="color">@color/subscribe_item_focused_stroke_night</item>
+    <item name="subscribe_item_pressed_bg_night" type="color">@color/subscribe_item_disabled_bg_night</item>
+    <item name="subscribe_item_pressed_stroke_night" type="color">@color/subscribe_item_focused_stroke_night</item>
+    <item name="subscribe_item_normal_bg_night" type="color">@color/subscribe_item_focused_bg_night</item>
+    <item name="subscribe_item_normal_stroke_night" type="color">@color/subscribe_item_focused_stroke_night</item>
+    <item name="subscribe_item_text_color_normal" type="color">@color/default_text</item>
+
+    <color name="subscribe_item_text_color_pressed">#ffb9b9b9</color>
+
+    <item name="subscribe_item_text_color_normal_night" type="color">@color/default_text_night</item>
+    <color name="default_text_night">#ff747474</color>
+    <color name="title_bg_color">#9BE5B4</color>
+    <color name="me_text_color">#9BE5B4</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 点击背景色改变使用的颜色值 -->
+    <drawable name="huise">#33000000</drawable>
+
+
+    <color name="zsq_bg_color">#f2f2f2</color>
+    <color name="zsq_bg2_color">#E6E6E6</color>
+    <color name="zsq_text_gray_color">#949294</color>
+    <color name="zsq_select_gray">#e1e1e1</color>
+    <color name="color_gray">#737373</color>
+    <color name="color_gray2">#7c7c7c</color>
+    <color name="color_gray3">#818181</color>
+    <color name="thb_red">#FF0000</color>
+    <color name="thb_orange">#FD7D36</color>
+    <color name="thb_yellow">#F9B747</color>
+    <color name="thb_gray">#A0A0A0</color>
+    <drawable name="color_user_item_normal">#FFFFFFFF</drawable>
+    <drawable name="color_user_item_pressed">#FFDDDDDD</drawable>
+    <color name="remind_infomation_bg_color">#FFFFFFFF</color>
+
+
+
+    <!--list颜色-->
+    <color name="list_title_color">#0d0d0d</color>
+    <color name="list_content_color">#262626</color>
+    <color name="list_time_color">#979995</color>
+    <color name="list_remark_color">#515050</color>
+</resources>

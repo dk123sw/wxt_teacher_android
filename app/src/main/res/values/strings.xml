@@ -1,0 +1,245 @@
+<resources>
+
+    <string name="app_name">智校园教师</string>
+
+    <!--注册流程-->
+    <string name="register_input_phone">输入手机号码</string>
+    <!-- SpaceFragment -->
+    <string name="space_menu_title">宝宝空间</string>
+    <!-- DiaryFragment -->
+    <string name="diary_menu_title">成长日记</string>
+    <!-- MomentFragment -->
+    <string name="moment_menu_title">动态</string>
+    <!--WebFragment-->
+    <string name="web_menu_title">校网</string>
+    <!-- ChannelActivity -->
+    <string name="drawer_btn_rss">频道管理</string>
+    <string name="subscribe_my_category">我的频道</string>
+    <string name="subscribe_more_category">更多频道</string>
+    <string name="subscribe_manager_category_info">单击增删频道</string>
+    <string name="subscribe_manager_category_info_2">单击增删频道，长按拖拽排序</string>
+
+    <!-- MeFragment -->
+    <string name="me_menu_title">我</string>
+    <string name="me_tag">职业标签</string>
+    <string name="me_fragment_name">张三</string>
+    <string name="me_fragment_company">温州学校</string>
+    <string name="me_fragment_position">教师</string>
+    <string name="me_fragment_city_text">城市：</string>
+    <string name="me_fragment_city">温州</string>
+    <string name="me_fragment_email_text">邮箱：</string>
+    <string name="me_fragment_email">123456789@qq.com</string>
+    <string name="personal_data_menu_title"> 个人资料</string>
+    <!-- MeFragment -->
+    <string name="me_post_text">职务:</string>
+    <string name="me_add_tag_text">添加标签</string>
+    <string name="me_collect_text">收藏资讯</string>
+    <string name="me_buildingring_text">动态</string>
+    <string name="me_apply_expert_text">成为餐饮行家</string>
+    <string name="me_my_service_text">服务</string>
+    <string name="me_service_state_text">开通</string>
+    <string name="me_service_endtime_text">2016-01-01</string>
+    <string name="me_order_text">微校通服务明细</string>
+    <string name="me_pay_text">支付微校通服务费</string>
+    <string name="me_qr_code_text">二维码</string>
+    <string name="me_clock_in_text">扫一扫打卡</string>
+    <string name="me_invite_text">邀请家人</string>
+    <string name="me_my_baby_text">我的宝宝</string>
+    <string name="me_help_text">使用帮助</string>
+    <string name="me_service_text">在线客服</string>
+    <string name="me_setting_text">设置</string>
+
+
+    <!--SpaceFragment-->
+    <string name="space_album_title1">爸爸妈妈好久没有上传照片了。</string>
+    <string name="space_album_button2">催一下</string>
+    <string name="space_album_title3">歌唱比赛相册</string>
+
+    <!-- FindFragment -->
+    <string name="find_buildingring_text">餐饮圈</string>
+    <string name="find_people_text">拓展你的行业人脉</string>
+    <string name="find_nearby_text">附近的餐饮人</string>
+    <string name="find_help_text">寻求专家的帮助</string>
+    <string name="title_activity_personal_data">PersonalDataActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_baby">MyBabyActivity</string>
+
+    <!-- 下拉刷新和上拉加载更多的文本 -->
+    <string name="pushmsg_center_no_more_msg">已经到底啦</string>
+    <string name="pushmsg_center_pull_up_text">松开加载更多</string>
+    <string name="pushmsg_center_pull_down_text">下拉可以刷新</string>
+    <string name="pushmsg_center_pull_release_text">松开获取更多</string>
+    <string name="pushmsg_center_pull_down_update_time">最后更新时间 : </string>
+    <string name="pushmsg_center_load_more_ongoing_text">正在加载中</string>
+    <string name="xsearch_loading">正在加载中…</string>
+    <string name="pull_to_refresh_header_hint_normal">@string/pushmsg_center_pull_down_text</string>
+    <string name="pull_to_refresh_header_hint_normal2">上拉可以加载</string>
+    <string name="pull_to_refresh_header_hint_ready">松开后加载</string>
+    <string name="pull_to_refresh_header_hint_loading">@string/pushmsg_center_load_more_ongoing_text</string>
+    <string name="pull_to_refresh_header_last_time">@string/pushmsg_center_pull_down_update_time</string>
+    <string name="pull_to_refresh_footer_hint_ready">松开载入更多</string>
+    <string name="pull_to_refresh_no_more_data">@string/pushmsg_center_no_more_msg</string>
+    <string name="pull_to_refresh_network_error">网络不给力，请检查网络</string>
+    <!--<string name="title_activity_splash">SplashActivity</string>-->
+
+    <!--<string name="hello_world">Hello world!</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="title_activity_home">HomeActivity</string>-->
+    <!--<string name="title_activity_register">RegisterActivity</string>-->
+    <!--<string name="title_activity_forget_password">ForgetPasswordActivity</string>-->
+
+    <string name="xlistview_footer_hint_normal">点击或上拉加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <!-- SettingActivity -->
+    <string name="setting_menu_title">设置</string>
+    <string name="setting_feedback">意见反馈</string>
+    <string name="setting_about_us">关于我们</string>
+    <string name="setting_wipe_cache">清理缓存</string>
+    <string name="setting_praise">打赏好评</string>
+    <string name="setting_update_version">检查更新</string>
+    <string name="setting_contact_us">联系我们</string>
+    <string name="setting_exit">退出登录</string>
+    <string name="setting_help">使用帮助</string>
+    <string name="setting_help_introduce_question1">
+        Q1 首次使用“微校通”，如何操作？
+    </string>
+    <string name="setting_help_introduce_question2">
+        Q2 获取不到验证码，怎么办？
+    </string>
+    <string name="setting_help_introduce_answe1">
+        1.注册前请先联系老师获得注册权限！再获取验证码，登入微校通，填写个人信息。\n\n
+        2.请联系老师了解支付费用等相关信息。\n\n
+        3.在使用前，应先绑定自己的孩子信息。\n\n
+        4.有问题请与老师联系或拨打客服电话。\n
+    </string>
+    <string name="setting_help_introduce_answe2">
+        1.请确认网络连接是否正确。\n\n
+        2.请确认手机号是否正确。
+
+    </string>
+
+
+    <!--以上为复制家长端文字-->
+    <!--以下微校通教师端文字-->
+
+
+    <!--消息界面（后缀1表示标题文字，2表示内容）-->
+    <string name="news_hot_news1">最新消息</string>
+    <string name="news_hot_news2">小张妈妈发布了一张日记照片</string>
+    <string name="news_group_send1">信息群发</string>
+    <string name="news_group_send2">小张妈妈回复了一条消息</string>
+    <string name="news_parents_told1">家长叮嘱</string>
+    <string name="news_parents_told2">小张妈妈说宝宝今天有点感冒</string>
+    <string name="news_announcement1">通知公告</string>
+    <string name="news_announcement2">发布了一条班级通知</string>
+    <string name="news_todo1">待办事宜</string>
+    <string name="news_todo2">李老师周日负责画黑板报</string>
+    <string name="news_gardener_communication1">园丁沟通</string>
+    <string name="news_gardener_communication2">李老师：今天下班等我</string>
+    <!--消息界面的联系人-->
+    <string name="news_contacts1.1">刘爱家</string>
+    <string name="news_contacts1.2">元旦节快乐，新的一年喜洋洋！</string>
+    <string name="news_contacts2.1">小张妈妈</string>
+    <string name="news_contacts2.2">老师辛苦了！</string>
+    <string name="news_contacts3.1">王微微</string>
+    <string name="news_contacts3.2">宝宝今天感冒了，希望老师多照顾！</string>
+    <string name="news_contacts4.1">夏花</string>
+    <string name="news_contacts4.2">发布了一条班级通知</string>
+    <string name="news_contacts5.1">兮兮</string>
+    <string name="news_contacts5.2">刘老师负责今天板报</string>
+    <string name="news_contacts6.1">李思力</string>
+    <string name="news_contacts6.2">老师，下班等我！</string>
+
+
+    <!--联系人界面-->
+    <string name="address_title1.1">家长</string>
+    <string name="address_title1.2">园丁</string>
+    <string name="address_title1.3">群聊</string>
+    <string name="address_title1.4">+</string>
+    <!--班级分组文字-->
+    <string name="address_title2.1">小二班</string>
+    <string name="address_title2.2">幼儿三班</string>
+    <string name="address_title2.3">星星班</string>
+    <string name="address_title2.4">大班一班</string>
+    <!--班级分组人数的数字-->
+    <string name="address_title3.1">(34)</string>
+    <string name="address_title3.2">(27)</string>
+    <string name="address_title3.3">(15)</string>
+    <string name="address_title3.4">(8)</string>
+    <!--联系人标签(姓名)-->
+    <string name="address_contacts1.1">刘小姐</string>
+    <string name="address_contacts1.2">李先生</string>
+    <string name="address_contacts1.3">钱奶奶</string>
+    <string name="address_contacts1.4">孙晓波</string>
+    <string name="address_contacts1.5">李家小孩</string>
+    <string name="address_contacts1.6">刘村</string>
+    <string name="address_contacts1.7">李哲哲</string>
+    <string name="address_contacts1.8">徐先生</string>
+    <string name="address_contacts1.9">白小姐</string>
+    <!--联系人最后登录时间-->
+    <string name="address_contacts_endlogin">最后登录时间：20:08</string>
+    <!--姓氏首字母-->
+    <string name="address_contacts_lettera">A</string>
+    <string name="address_contacts_letterb">B</string>
+
+
+    <!--功能界面-->
+    <string name="teacher_name">王丹老师</string>
+    <string name="teacher_introduce">清华幼儿园·大班三班</string>
+    <string name="rank">排名</string>
+    <string name="rank2">13</string>
+    <string name="score">积分</string>
+    <string name="score2">256</string>
+    <string name="grade">等级</string>
+    <string name="grade2">11</string>
+    <string name="assistant">小助手</string>
+    <string name="btn_website_text">学校官网</string>
+    <string name="btn_album_text">班级相册</string>
+    <string name="btn_files_text">成长档案</string>
+    <string name="btn_confirm_text">代接确认</string>
+    <string name="btn_leave_text">在线请假</string>
+    <string name="btn_parents_text">老师考勤</string>
+    <string name="btn_recipes_text">食谱</string>
+    <string name="btn_teacher_text">考勤</string>
+    <string name="function_baby_park">宝宝乐园</string>
+    <string name="function_baby_park_text">“如果你无法简介表达你的想法，那只能说明你还不够了解它。”</string>
+
+
+    <!--我的界面-->
+    <string name="change_password">修改密码</string>
+    <string name="my_score">我的积分</string>
+    <string name="clock">扫一扫打卡</string>
+    <string name="setting">刷卡设置</string>
+    <string name="announcement">系统公告</string>
+    <string name="help">使用帮助</string>
+    <string name="suggestion">意见反馈</string>
+    <string name="maintain">维护人员</string>
+    <string name="maintain_phonenum">18866866686</string>
+    <string name="online_service">在线留言</string>
+    <string name="clean_cache">清除缓存</string>
+    <string name="qrcode_dowland">二维码下载</string>
+    <!-- 园区介绍-->
+    <string name="web_introduce_text">&#160;&#160;&#160;&#160;&#160;&#160;幼儿园建于2004年9月，占地面积有3.25亩,房屋建筑面积1800多个平方，绿化面积占有200个平方，可同时容纳800名幼儿入园。现在园幼儿406名，分为学前、大中小10个班，园内共有29名教职工，其中具有幼师资格的专业教师10名，另外还配有11名保育员，勤杂工1名，炊事员2名，保安3名，驾驶员2名，是我市目前规模最大的私立幼儿园。</string>
+    <string name="friend_data_send_message_text">设置消息</string>
+    <string name="folder_all">所有照片</string>
+    <string name="photo_unit">张</string>
+    <string name="tip_take_photo">拍摄照片</string>
+    <string name="preview">预览</string>
+    <string name="msg_no_camera">没有系统相机</string>
+    <string name="msg_amount_limit">已经达到最高选择数量</string>
+    <string name="action_done">完成</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="versionid">10</string>
+
+    <string name="update_download_failed">下载失败</string>
+    <string name="update_download_failed_msg">下载失败原因</string>
+    <string name="update_download_finish">下载完成</string>
+    <string name="update_download_processing">正在下载</string>
+    <string name="update_download_start">下载开始</string>
+    <string name="update_download_new_version">有新版本</string>
+
+</resources>

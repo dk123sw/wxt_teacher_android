@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:id="@+id/tecxt_homwork"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/myhomework_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="周一 家庭作业"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/myhomework_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/myhomework_title"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="口算：完成4页口算题"
+            android:textColor="@color/subscribe_item_text_color_pressed_night" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_size_10"
+            android:id="@+id/homework_img"
+            android:scaleType="fitXY"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/img_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/ic_fasong" />
+
+            <TextView
+                android:id="@+id/myhomework_teacher_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="王一老师"
+                android:textColor="@color/subscribe_item_drag_bg_night" />
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/myhomework_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:text="2016-04-23  16：13" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray" />
+    <RelativeLayout
+        android:id="@+id/class_baoming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_below="@+id/img_layout"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp">
+
+            <TextView
+                android:id="@+id/alread_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="已阅读12"
+                android:textColor="@color/orange"
+                />
+
+            <TextView
+                android:id="@+id/not_read_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未读12"
+                android:textColor="@color/orange"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/alread_text"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentRight="true">
+
+
+            <ImageView
+                android:id="@+id/homework_discuss"
+                android:layout_width="10dip"
+                android:layout_height="18dip"
+                android:background="@drawable/right_jiantou"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY"
+                android:layout_margin="@dimen/activity_size_10"/>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

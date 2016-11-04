@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="20dip"
+    android:layout_gravity="center_vertical"
+    android:minWidth="50dip"
+    android:background="@color/title_color" >
+
+    <ImageView
+        android:id="@+id/iv_profession_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="12dip"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/icon_delete" />
+
+    <TextView
+        android:id="@+id/tv_profession_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="left|center_vertical"
+        android:layout_toRightOf="@id/iv_profession_delete"
+        android:hint="微校通"
+        android:textSize="10sp" />
+
+</RelativeLayout>

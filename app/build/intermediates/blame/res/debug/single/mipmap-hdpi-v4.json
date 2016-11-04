@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_previous_item.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_camera.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_repeat.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_repeat.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_crop.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_crop.png"
+    }
+]

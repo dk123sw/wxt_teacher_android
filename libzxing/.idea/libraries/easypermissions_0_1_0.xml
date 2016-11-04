@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="easypermissions-0.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pub.devrel/easypermissions/0.1.0/e53b64f0b8be14ef0ae44ed4274a8a8c995c2cd2/easypermissions-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

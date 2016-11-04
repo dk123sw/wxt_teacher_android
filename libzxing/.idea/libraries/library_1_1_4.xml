@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baoyz.actionsheet/library/1.1.4/3d869e66364c0bff64a5edd4eaa220ba9d071c80/library-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

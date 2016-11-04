@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/function_teacher"
+    android:layout_height="100dp"
+    android:background="@color/title_bg_color">
+    <!--头像-->
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <!--圆形头像-->
+        <cn.xiaocool.wxtteacher.ui.RoundImageView
+            android:id="@+id/iv_me_fragment_avatar"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:scaleType="centerInside"
+            android:src="@drawable/default_avatar"
+            android:layout_marginLeft="@dimen/activity_size_20"/>
+
+        <!--头像右边文字姓名-->
+        <TextView
+            android:id="@+id/teacher_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/teacher_name"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_toRightOf="@+id/iv_me_fragment_avatar"
+            android:layout_marginLeft="@dimen/activity_size_20"
+            android:layout_marginTop="@dimen/activity_size_10"
+
+            />
+
+
+        <!--头像右边文字介绍-->
+        <TextView
+            android:id="@+id/teacher_introduce"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/activity_size_25"
+            android:text=""
+            android:textSize="@dimen/text_size_15"
+            android:textColor="@color/white"
+            android:layout_toRightOf="@+id/iv_me_fragment_avatar"
+            android:layout_below="@+id/teacher_name"
+            android:layout_marginLeft="@dimen/activity_size_20"
+            android:layout_marginTop="@dimen/activity_size_10"
+
+            />
+    </RelativeLayout>
+
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="@dimen/activity_size_10"
+        android:background="@drawable/right_whit"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.xiaocool.wxtteacher.main.SuggestListActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9be5b4"
+            android:gravity="center"
+            android:text="在线客服"
+            android:textColor="@color/title_color"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="100dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/quit"
+                android:layout_centerVertical="true"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/ic_fanhui"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/btn_add"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true">
+            <ImageView
+                android:id="@+id/iv_addChildren"
+                android:layout_width="@dimen/activity_size_20"
+                android:layout_height="@dimen/activity_size_20"
+                android:src="@drawable/ic_fabiao"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/activity_size_10"
+                android:layout_centerVertical="true"/>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView
+        android:id="@+id/sug_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView>
+
+</LinearLayout>

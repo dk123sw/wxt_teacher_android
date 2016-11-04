@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/me_collect"
+    android:layout_width="fill_parent"
+    android:layout_height="40dip"
+    android:layout_marginTop="1dp"
+    android:layout_gravity="center_vertical"
+    android:background="@color/title_color"
+    android:orientation="horizontal">
+    <!--左边点赞布局-->
+    <RelativeLayout
+        android:layout_weight="0.999"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <!--点赞图标-->
+            <ImageView
+                android:id="@+id/space_album_like"
+                android:layout_width="25dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/space_album_like"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/activity_size_20"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20"
+                android:textSize="@dimen/activity_size_18"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/activity_size_50"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+    <!--分隔竖线-->
+    <ImageView
+        android:layout_width="@dimen/activity_size_1"
+        android:layout_height="match_parent"
+        android:layout_weight="0.002"
+        android:background="@drawable/space_album_line"/>
+
+    <!--右边评论布局-->
+    <RelativeLayout
+        android:layout_weight="0.999"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <!--评论图标-->
+            <ImageView
+                android:id="@+id/space_album_comment"
+                android:layout_width="25dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/space_album_comment"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/activity_size_20"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10"
+                android:textSize="@dimen/activity_size_18"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/activity_size_50"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

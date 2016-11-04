@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.xiaocool.wxtteacher.main.SettingActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="#9be5b4">
+
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="100dip"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:id="@+id/btn_exit"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/activity_size_10"
+                android:src="@drawable/ic_fanhui" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="设置"
+                android:textColor="@color/title_color"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <include layout="@layout/my_help"></include>
+
+    <include layout="@layout/my_suggest"></include>
+
+    <include layout="@layout/my_announcement"></include>
+
+    <include layout="@layout/update_version"></include>
+
+    <include layout="@layout/my_clean_cache"></include>
+
+    <include layout="@layout/my_exit"></include>
+</LinearLayout>

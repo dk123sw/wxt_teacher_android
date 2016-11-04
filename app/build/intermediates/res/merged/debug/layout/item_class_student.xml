@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+
+
+        <cn.xiaocool.wxtteacher.ui.RoundImageView
+            android:id="@+id/student_avatar"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/default_avatar"/>
+
+        <TextView
+            android:id="@+id/student_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="宝宝"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center"
+            android:textSize="12sp"
+            android:fitsSystemWindows="true"
+            android:layout_below="@+id/student_avatar"
+            android:layout_marginTop="@dimen/activity_size_5"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:gravity="center_horizontal">
+
+
+            <RelativeLayout
+                android:layout_width="45dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/type_show"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_marginRight="1dp"
+                    android:layout_alignParentRight="true"/>
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

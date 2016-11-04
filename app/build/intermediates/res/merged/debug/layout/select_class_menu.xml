@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <cn.xiaocool.wxtteacher.ui.NoScrollListView
+        android:divider="@color/zsq_bg_color"
+        android:id="@+id/select_class_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+</LinearLayout>

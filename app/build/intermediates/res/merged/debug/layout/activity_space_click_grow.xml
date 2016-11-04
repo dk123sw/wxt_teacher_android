@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.xiaocool.wxtteacher.main.SpaceClickGrowActivity">
+    <RelativeLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="#9be5b4">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="选择班级"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            />
+
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/btn_exit"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/ic_fanhui"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/app_name" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+
+        <cn.xiaocool.wxtteacher.ui.NoScrollListView
+            android:id="@+id/class_left_list"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:dividerHeight="1dp"
+            android:cacheColorHint="@color/white">
+        </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/red"
+            />
+
+        <ListView
+            android:id="@+id/class_right_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:dividerHeight="1dp"
+            android:cacheColorHint="@color/white">
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:clipChildren="false">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout_profession_circle_image_back"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/back_whrit" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipChildren="false">
+
+        <cn.xiaocool.wxtteacher.view.PhotoViewPager
+            android:id="@+id/viewPager_profession_cicle_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false">
+        </cn.xiaocool.wxtteacher.view.PhotoViewPager>
+
+        <RelativeLayout
+            android:id="@+id/photo_relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true" >
+
+            <Button
+                android:id="@+id/photo_bt_exit"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/bt_quxiao"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/photo_bt_del"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/bt_shanchu"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btn_profession_cicle_imgeview_save"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:padding="10dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@null"
+                android:text="保存"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

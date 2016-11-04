@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <cn.xiaocool.wxtteacher.ui.ReboundScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/zsq_bg_color"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/activity_size_5"
+                    android:text="已读"
+                    android:textColor="@color/zsq_text_gray_color"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <cn.xiaocool.wxtteacher.ui.NoScrollListView
+                android:id="@+id/already_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:listSelector="@color/white">
+
+            </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/zsq_bg_color"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/activity_size_5"
+                    android:text="未读"
+                    android:textColor="@color/zsq_text_gray_color"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <cn.xiaocool.wxtteacher.ui.NoScrollListView
+                android:id="@+id/notready_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:listSelector="@color/white">
+
+            </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+
+        </LinearLayout>
+
+
+    </cn.xiaocool.wxtteacher.ui.ReboundScrollView>
+</LinearLayout>

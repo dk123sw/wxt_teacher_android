@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="68dp"
+    android:id="@+id/news_announcement"
+    android:layout_marginTop="@dimen/activity_size_1"
+    android:background="@color/whilte">
+
+
+    <!--家长叮嘱左边的小图标-->
+    <ImageView
+        android:id="@+id/news_hot_news"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/news_pic_hot_news"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        />
+    <!--文字-->
+    <TextView
+        android:id="@+id/news_text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="系统消息"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_toRightOf="@+id/news_hot_news"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="10dp"
+
+
+        />
+    <!--文字下面介绍-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="最新系统消息"
+        android:textSize="14sp"
+        android:layout_toRightOf="@+id/news_hot_news"
+        android:layout_below="@+id/news_text1"
+        android:layout_marginTop="3dp"
+        android:textColor="@color/color_gray"
+        android:layout_marginLeft="10dp"
+
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"
+        android:layout_alignParentBottom="true"
+        />
+
+
+</RelativeLayout>

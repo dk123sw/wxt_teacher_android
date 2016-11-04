@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:descendantFocusability="blocksDescendants">
+
+    <LinearLayout
+        android:id="@+id/head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+
+        <cn.xiaocool.wxtteacher.ui.RoundImageView
+            android:layout_width="50.0dip"
+            android:layout_height="50.0dip"
+            android:layout_margin="10dip"
+            android:scaleType="centerInside"
+            android:id="@+id/item_head"
+            android:src="@drawable/default_square" />
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout_profession_circle_item"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+
+
+                <TextView
+                    android:id="@+id/item_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:paddingRight="5dip"
+                    android:text="少东家"
+                    android:textColor="@color/list_title_color"
+                    android:textSize="16sp" />
+
+
+            </RelativeLayout>
+
+
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout_profession_circle_item_content"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                >
+                <TextView
+                    android:id="@+id/item_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/activity_size_10"
+                    android:textSize="13sp"
+                    android:text="20:20"
+                    android:textColor="@color/list_time_color"
+                    />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/zsq_bg_color"
+        />
+
+    <RelativeLayout
+        android:id="@+id/tecxt_homwork"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_marginLeft="@dimen/activity_size_50"
+        android:layout_marginRight="@dimen/activity_size_10">
+
+        <TextView
+            android:id="@+id/myhomework_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/myhomework_title"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="@dimen/activity_size_10"
+            android:text="口算：完成4页口算题"
+            android:maxLines="2"
+            android:enabled="true"
+            android:textSize="15sp"
+            android:textColor="@color/list_content_color" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_marginLeft="@dimen/activity_size_50">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="@dimen/activity_size_10"
+            android:id="@+id/homework_img"
+            android:scaleType="centerCrop"
+            android:focusable="false"
+            android:layout_centerHorizontal="true"/>
+        <cn.xiaocool.wxtteacher.ui.NoScrollGridView
+            android:id="@+id/img_gridview"
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_size_10"
+            android:listSelector="@color/white"
+            android:horizontalSpacing="10dp"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="10dp"
+            android:focusable="false"
+            />
+    </RelativeLayout>
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_below="@+id/img_layout"
+        android:layout_marginLeft="@dimen/activity_size_50"
+        >
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/activity_size_10">
+
+            <ImageView
+                android:id="@+id/homework_praise"
+                android:layout_width="20dip"
+                android:layout_height="20dip"
+                android:background="@drawable/btn_praise"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY"
+                android:layout_margin="@dimen/activity_size_10"
+                android:focusable="false"/>
+
+
+
+            <ImageView
+                android:id="@+id/homework_discuss"
+                android:layout_width="20dip"
+                android:layout_height="20dip"
+                android:background="@drawable/ic_comments"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY"
+                android:layout_margin="@dimen/activity_size_10"
+                android:focusable="false"/>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_homework_item_praise"
+        android:layout_width="match_parent"
+        android:layout_height="20dip"
+        android:orientation="horizontal"
+        android:layout_marginTop="-5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/white"
+        android:layout_marginLeft="@dimen/activity_size_50">
+
+        <TextView
+            android:id="@+id/homework_item_praise_names"
+            android:drawableLeft="@drawable/ic_xiaozan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:textColor="@color/title_bg_color"
+            android:textSize="13.0sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_size_50">
+
+        <cn.xiaocool.wxtteacher.ui.NoScrollListView
+            android:id="@+id/comment_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/activity_size_10"
+            >
+
+        </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+
+    </RelativeLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/zsq_bg_color"
+        />
+
+
+</LinearLayout>

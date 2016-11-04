@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/recipes_item_week"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="星期一"
+        android:background="#F2F2F2"
+        android:textColor="@color/list_title_color"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:textSize="14sp"/>
+    <cn.xiaocool.wxtteacher.ui.NoScrollListView
+        android:id="@+id/recipes_item_list"
+        android:layout_width="match_parent"
+        android:divider="@color/zsq_bg_color"
+        android:dividerHeight="0.5dp"
+        android:layout_height="wrap_content">
+
+    </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="60dp">-->
+        <!--<cn.xiaocool.wxtteacher.ui.RoundImageView-->
+            <!--android:layout_width="45dp"-->
+            <!--android:layout_height="45dp"-->
+            <!--android:src="@drawable/default_square"-->
+            <!--android:layout_marginTop="7.5dp"-->
+            <!--android:layout_marginLeft="10dp"/>-->
+        <!--<TextView-->
+            <!--android:id="@+id/recipes_item_breakfast"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="16sp"-->
+            <!--android:layout_gravity="center_vertical"-->
+            <!--android:layout_marginLeft="15dp"-->
+            <!--android:textColor="@color/black"-->
+            <!--android:text="鱼香肉丝"/>-->
+    <!--</LinearLayout>-->
+    <!--<cn.xiaocool.wxtteacher.ui.NoScrollGridView-->
+        <!--android:id="@+id/gridview_breakfast"-->
+        <!--android:background="@color/white"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="70dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:listSelector="@color/white"-->
+        <!--android:numColumns="3"-->
+        <!--android:stretchMode="columnWidth"-->
+        <!--android:verticalSpacing="17dp"></cn.xiaocool.wxtteacher.ui.NoScrollGridView>-->
+    <!--<View-->
+        <!--android:layout_height="1px"-->
+        <!--android:background="@color/zsq_bg_color"-->
+        <!--android:layout_width="fill_parent">-->
+    <!--</View>-->
+
+
+</LinearLayout>

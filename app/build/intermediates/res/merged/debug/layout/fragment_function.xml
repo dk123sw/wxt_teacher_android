@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#9be5b4"></LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9be5b4"
+            android:gravity="center"
+            android:text="功能"
+            android:textColor="@color/title_color"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <cn.xiaocool.wxtteacher.ui.ReboundScrollView
+        android:id="@+id/scrollView_activity_me"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0"
+        android:scrollbars="none" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/main_ground_color"
+            >
+        <!--上面的波浪-->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:background="@color/whilte">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/wave"
+                />
+        </RelativeLayout>
+
+            <!--老师信息模块-->
+            <include layout="@layout/function_teacher_gongneng"></include>
+
+            <!--排名、积分、等级模块-->
+            <include layout="@layout/function_rank"></include>
+            <!--小助手标题-->
+            <include layout="@layout/function_assistant_title"></include>
+            <!--<RelativeLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="200dp">-->
+                <!--<android.support.v4.view.ViewPager-->
+                    <!--android:id="@+id/viewpager_function"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent" />-->
+
+                <!--<LinearLayout-->
+                    <!--android:id="@+id/ll_flash"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentBottom="true"-->
+                    <!--android:layout_centerHorizontal="true"-->
+                    <!--android:layout_marginBottom="30.0dip"-->
+                    <!--android:orientation="horizontal" >-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="10dip"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:clickable="true"-->
+                        <!--android:contentDescription="@string/app_name"-->
+                        <!--android:padding="10.0dip"-->
+                        <!--android:scaleType="centerInside"-->
+                        <!--android:src="@drawable/welcome_point" />-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="10dip"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:clickable="true"-->
+                        <!--android:contentDescription="@string/app_name"-->
+                        <!--android:padding="10.0dip"-->
+                        <!--android:scaleType="centerInside"-->
+                        <!--android:src="@drawable/welcome_point" />-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="10dip"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:clickable="true"-->
+                        <!--android:contentDescription="@string/app_name"-->
+                        <!--android:padding="10.0dip"-->
+                        <!--android:scaleType="centerInside"-->
+                        <!--android:src="@drawable/welcome_point" />-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="10dip"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:clickable="true"-->
+                        <!--android:contentDescription="@string/app_name"-->
+                        <!--android:padding="10.0dip"-->
+                        <!--android:scaleType="centerInside"-->
+                        <!--android:src="@drawable/welcome_point" />-->
+                <!--</LinearLayout>-->
+            <!--</RelativeLayout>-->
+            <!--&lt;!&ndash;第一行四个按钮&ndash;&gt;-->
+            <include layout="@layout/function_eight_btn_1"></include>
+            <!--&lt;!&ndash;第二行四个按钮&ndash;&gt;-->
+           <include layout="@layout/function_eight_btn_2"></include>
+
+            <include layout="@layout/function_eight_btn_4"></include>
+            <include layout="@layout/function_eight_btn_3"></include>
+            <!--宝宝乐园标签-->
+            <include layout="@layout/function_baby_park_title"></include>
+            <!--宝宝乐园内容-->
+            <include layout="@layout/function_baby_park"></include>
+            <!-- 宝宝视频-->
+            <include layout="@layout/function_baby_video"></include>
+            <!--防丢定位-->
+            <include layout="@layout/function_location"></include>
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+    </cn.xiaocool.wxtteacher.ui.ReboundScrollView>
+
+
+</LinearLayout>

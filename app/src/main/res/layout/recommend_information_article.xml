@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_recommend_article"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/textview_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="10dip" >
+
+        <ImageView
+            android:id="@+id/iv_article_img"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:background="@color/view_color"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/tv_article_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@id/iv_article_img"
+            android:ellipsize="end"
+            android:maxLength="25"
+            android:singleLine="false"
+            android:textSize="16sp" />
+
+        <RelativeLayout
+            android:id="@+id/layout_article"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_article_img"
+            android:layout_alignLeft="@+id/tv_article_content"
+            android:layout_toRightOf="@id/iv_article_img"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:id="@+id/tv_article_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dip"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_article_pinlun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_toRightOf="@id/tv_article_title"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_article_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_toRightOf="@id/tv_article_pinlun"
+                android:textSize="10sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_article_zhuanti"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@color/blue"
+            android:gravity="center"
+            android:text="专题"
+            android:visibility="gone"
+            android:textColor="@color/title_color"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>

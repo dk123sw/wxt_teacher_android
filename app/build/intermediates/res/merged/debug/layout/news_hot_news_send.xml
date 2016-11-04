@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/main_ground_color"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9be5b4"
+            android:gravity="center"
+            android:text="最新消息"
+            android:textColor="@color/title_color"
+            android:textSize="20sp" />
+        <ImageView
+            android:id="@+id/quit"
+            android:layout_centerVertical="true"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/btn_back_pressed"
+            />
+        <!--<TextView-->
+            <!--android:id="@+id/tvRevert"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="回复"-->
+            <!--android:textColor="@color/title_color"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--/>-->
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#ffffff">
+        <ImageView
+            android:id="@+id/news_hot_news1_head"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/main_ertongleyuan"
+            />
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="接收人:"
+            android:textColor="@color/gray"
+            android:layout_toRightOf="@+id/news_hot_news1_head"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:id="@+id/news_hot_news1_sneder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@+id/text1"
+            />
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="发送时间："
+            android:textColor="@color/gray"
+            android:layout_marginLeft="200dp"
+            />
+        <TextView
+            android:id="@+id/news_hot_news1_sendtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/time"
+            android:layout_alignTop="@+id/time"
+            android:textColor="@color/gray"
+            />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/whilte"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="消息详情："
+            android:textColor="@color/gray"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            />
+        <TextView
+            android:id="@+id/news_hot_news1_message_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_below="@+id/text2"
+            android:layout_alignLeft="@+id/text2"
+            android:layout_marginLeft="10dp"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>

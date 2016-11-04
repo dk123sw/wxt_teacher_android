@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/zsq_bg_color"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="班级活动"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="100dip"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:id="@+id/btn_exit"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/app_name"
+                android:layout_marginLeft="@dimen/activity_size_10"
+                android:src="@drawable/ic_fanhui" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/btn_add"
+            android:layout_width="@dimen/activity_size_100"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true">
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/ic_fabiao" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView
+        android:id="@+id/class_events_listcontent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:cacheColorHint="@color/white">
+    </cn.xiaocool.wxtteacher.ui.list.PullToRefreshListView>
+
+    <LinearLayout
+        android:id="@+id/edit_and_send"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:background="#fff">
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/type_select_btn_nor"/>
+
+        <EditText
+            android:id="@+id/parent_warn_comment_edit"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="5"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            android:background="@drawable/bg_edittext"
+            android:hint="请输入..."
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_marginRight="5dp"/>
+
+        <Button
+            android:id="@+id/btn_parent_send"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:textSize="15dp"
+            android:background="@drawable/ic_cuiyixia"
+            android:layout_centerVertical="true"
+            android:text="发送"
+            android:layout_marginRight="5dp"
+            android:textColor="@color/white"
+            />
+    </LinearLayout>
+</LinearLayout>

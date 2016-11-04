@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9be5b4"
+            android:gravity="center"
+            android:text="通讯录"
+            android:textColor="@color/title_color"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <cn.xiaocool.wxtteacher.ui.ReboundScrollView
+        android:id="@+id/scrollView_activity_me"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0"
+        android:scrollbars="none" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/main_ground_color"
+            >
+        <!--上面的波浪-->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:background="@color/whilte">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/wave"
+                />
+        </RelativeLayout>
+
+
+        <!--装家长、园丁、群聊、加号的布局-->
+        <include layout="@layout/address_title"></include>
+        <!--装班级分组的布局-->
+        <include layout="@layout/address_classgroup"></include>
+
+        <!--姓氏A-->
+        <include layout="@layout/address_letter_a"></include>
+        <!--姓氏A的通讯录-->
+        <include layout="@layout/address_contacts_a"></include>
+
+        <!--姓氏B-->
+        <include layout="@layout/address_letter_b"></include>
+        <!--姓氏B的通讯录-->
+        <include layout="@layout/address_contacts_b"></include>
+
+
+        </LinearLayout>
+
+    </cn.xiaocool.wxtteacher.ui.ReboundScrollView>
+
+
+</LinearLayout>

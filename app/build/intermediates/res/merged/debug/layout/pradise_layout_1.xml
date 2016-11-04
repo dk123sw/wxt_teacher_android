@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_size_5"
+        android:background="#f2f2f2"/>
+
+    <LinearLayout
+        android:id="@+id/hd_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_huodong"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="活动"
+            android:textSize="16sp"
+            android:textColor="#101010"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_size_5"
+        android:background="#f2f2f2"/>
+    <LinearLayout
+        android:id="@+id/mlxt_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:background="#FFFFFF"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_malaxuetang"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="麻辣学堂"
+            android:textColor="#101010"
+            android:textSize="16sp"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+
+
+    <LinearLayout
+        android:id="@+id/yysp_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_yingyangshipu"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="营养食谱"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:textSize="16sp"
+            android:textColor="#101010"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+
+
+    <LinearLayout
+        android:id="@+id/sqgs_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_shuiqiangushi"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="睡前故事"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:textColor="#101010"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+    <LinearLayout
+        android:id="@+id/jdeg_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_jingdianerge"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="经典儿歌"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:textColor="#101010"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+
+
+
+    <LinearLayout
+        android:id="@+id/yebk_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_yuerbaike"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="育儿百科"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:textColor="#101010"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/egxt_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_ergexuetang"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="儿歌学堂"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:textColor="#101010"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/qzly_layout"
+        android:background="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_qinzileyuan"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="亲子乐园"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="13dp"
+            android:textColor="#101010"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/activity_size_10"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e2e2e2"/>
+
+
+
+</LinearLayout>

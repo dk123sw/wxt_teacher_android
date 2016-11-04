@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_ground_color"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="代接确认"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_fanhui"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/add_collect"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/activity_size_10"
+            android:src="@drawable/ic_fabiao"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<Button-->
+            <!--android:id="@+id/btn_suspend"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="@dimen/activity_size_40"-->
+            <!--android:text="待处理"-->
+            <!--android:textStyle="bold"-->
+            <!--android:background="@null" />-->
+        <!--<Button-->
+            <!--android:id="@+id/btn_finished"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="已完成"-->
+            <!--android:textStyle="bold"-->
+            <!--android:layout_height="@dimen/activity_size_40"-->
+            <!--android:background="@null" />-->
+        <!--<Button-->
+            <!--android:id="@+id/btn_expired"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="@dimen/activity_size_40"-->
+            <!--android:text="已过期"-->
+            <!--android:textStyle="bold"-->
+            <!--android:background="@null" />-->
+    <!--</LinearLayout>-->
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="55dp"
+        android:background="@color/gray">
+        <RelativeLayout
+            android:id="@+id/address_parent"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/whilte"
+            >
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="待处理"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textColor="@color/color_adddress"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/address_selector"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/address_gardener"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/whilte"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="已完成"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textColor="@color/color_adddress"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/address_selector"/>
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/fragment_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </RelativeLayout>
+</LinearLayout>

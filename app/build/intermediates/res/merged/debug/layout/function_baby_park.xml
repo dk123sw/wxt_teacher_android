@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/whilte"
+    android:layout_marginTop="@dimen/activity_size_1"
+    android:visibility="gone"
+    >
+    <!--示例图片-->
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/function_example_picture"
+        android:layout_marginTop="@dimen/activity_size_10"/>
+    <!--示例文字-->
+    <TextView
+        android:layout_marginTop="@dimen/activity_size_15"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="@string/function_baby_park_text"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/activity_size_20"
+        />
+</LinearLayout>

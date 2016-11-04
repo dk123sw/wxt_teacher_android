@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context="cn.xiaocool.wxtteacher.main.ShowImageActivity">
+    <LinearLayout
+        android:id="@+id/relativeLayout_profession_circle_image_back"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:gravity="center" >
+
+        <ImageView
+            android:id="@+id/activity_show_image_back"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_fanhui" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/activity_show_image_big_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter" />
+</LinearLayout>

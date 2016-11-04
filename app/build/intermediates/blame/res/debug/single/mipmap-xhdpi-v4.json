@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_zhixiaoyuan.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_zhixiaoyuan.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_other_bt_bg.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_other_bt_bg.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_top_pressed.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_single_normal.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_top_normal.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_single_pressed.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_share_wx.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_share_wx.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_bottom_pressed.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_bg_ios6.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_bg_ios6.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_middle_normal.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_cancel_bt_bg.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_cancel_bt_bg.9.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_wxt_teacher.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_wxt_teacher.png"
+    },
+    {
+        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\actionsheet_middle_pressed.9.png",
+        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\mipmap-xhdpi\\actionsheet_middle_pressed.9.png"
+    }
+]

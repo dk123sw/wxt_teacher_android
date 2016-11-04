@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_ground_color"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@color/title_bg_color">
+
+
+            <com.sevenheaven.segmentcontrol.SegmentControl
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/segment_control"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_centerInParent="true"
+                android:textSize="16sp"
+                app:colors="@color/white"
+                app:cornerRadius="5dp"
+                app:direction="horizon"
+                app:horizonGap="10dp"
+                app:separatorWidth="2dp"
+                app:boundWidth="0.5dp"
+                app:textSelectedColors="@color/title_bg_color"
+                app:texts="签到|签退" />
+
+
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_fanhui"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/add_collect"
+            android:layout_width="@dimen/activity_size_20"
+            android:layout_height="@dimen/activity_size_20"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/activity_size_10"
+            android:src="@drawable/add_children"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content">-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_suspend"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_height="@dimen/activity_size_40"-->
+    <!--android:text="待处理"-->
+    <!--android:textStyle="bold"-->
+    <!--android:background="@null" />-->
+    <!--<Button-->
+    <!--android:id="@+id/btn_finished"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_weight="1"-->
+    <!--android:text="已完成"-->
+    <!--android:textStyle="bold"-->
+    <!--android:layout_height="@dimen/activity_size_40"-->
+    <!--android:background="@null" />-->
+    <!--<Button-->
+    <!--android:id="@+id/btn_expired"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_height="@dimen/activity_size_40"-->
+    <!--android:text="已过期"-->
+    <!--android:textStyle="bold"-->
+    <!--android:background="@null" />-->
+    <!--</LinearLayout>-->
+    <View
+        android:id="@+id/location_pop"
+        android:layout_width="@dimen/activity_size_0"
+        android:layout_height="@dimen/activity_size_0"
+        android:layout_gravity="right" />
+
+    <RelativeLayout
+        android:id="@+id/fragment_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/item_time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="12sp"
+            android:textColor="@color/list_time_color"
+            android:text="9:36"/>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/left_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <cn.xiaocool.wxtteacher.ui.RoundImageView
+                android:id="@+id/chat_avatar_left"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_margin="@dimen/activity_size_10"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/default_square"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_toRightOf="@+id/chat_avatar_left">
+                <TextView
+                    android:id="@+id/send_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textColor="@color/list_time_color"
+                    android:text="某某"
+                    android:layout_marginTop="12dp"/>
+
+                <com.github.library.bubbleview.BubbleTextVew
+                    android:id="@+id/chat_text_left"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:arrowLocation="left"
+                    app:arrowWidth="8dp"
+                    app:angle="8dp"
+                    app:arrowHeight="6dp"
+                    app:arrowPosition="10dp"
+                    android:padding="10dp"
+                    android:text="到安东萨克阿里山的卡拉是"
+                    android:textColor="@color/white"
+                    app:bubbleColor="#7EC0EE"/>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/right_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+            <cn.xiaocool.wxtteacher.ui.RoundImageView
+                android:id="@+id/chat_avatar_right"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_margin="@dimen/activity_size_10"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/default_square"/>
+
+            <com.github.library.bubbleview.BubbleTextVew
+                android:id="@+id/chat_text_right"
+                android:layout_toLeftOf="@id/chat_avatar_right"
+                android:layout_marginTop="@dimen/activity_size_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:arrowLocation="right"
+                app:arrowWidth="8dp"
+                app:angle="8dp"
+                app:arrowHeight="6dp"
+                app:arrowPosition="10dp"
+                android:padding="10dp"
+                android:text="大师的看来是看到了三大萨的拉萨的看看的撒的"
+                android:textColor="@color/white"
+                app:bubbleColor="#9BE5B4"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

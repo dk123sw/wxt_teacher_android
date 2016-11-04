@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+        <!-- 第一条老师点评-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/activity_size_25"
+                android:text="如果你不能简单表达你的想法，那只能说明你还不够了解它。"
+                android:id="@+id/teacher_review_content" />
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="@dimen/activity_size_120"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:layout_marginLeft="10dp"
+                    android:text="刘老师"
+                    android:id="@+id/teacher_review_name" />
+
+
+                <TextView
+                    android:layout_width="@dimen/activity_size_120"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="@dimen/activity_size_5"
+                    android:text="2015.12.22"
+                    android:id="@+id/teacher_review_time" />
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+
+
+        <!-- 第二条老师点评-->
+
+
+    </LinearLayout>
+

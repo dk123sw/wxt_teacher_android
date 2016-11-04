@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/whilte"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dip" >
+
+        <TextView
+            android:id="@+id/title_bar_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9be5b4"
+            android:gravity="center"
+            android:text="班级情况"
+            android:textColor="@color/title_color"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_fanhui"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+    <cn.xiaocool.wxtteacher.ui.ReboundScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:background="@color/white">
+
+                <RelativeLayout
+                    android:id="@+id/last_month_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+                    <ImageView
+                        android:id="@+id/last_month"
+                        android:layout_width="10dp"
+                        android:layout_height="15dp"
+                        android:background="@drawable/left_jiantou"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+
+
+
+                    <TextView
+                        android:id="@+id/year_month"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="2016年6月"
+                        android:textSize="16sp"
+                        android:textColor="@color/title_bg_color"
+                        android:layout_margin="@dimen/activity_size_10"
+                        />
+
+
+
+
+                </LinearLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/next_month_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+
+                    <ImageView
+                        android:id="@+id/next_month"
+                        android:layout_width="10dp"
+                        android:layout_height="15dp"
+                        android:background="@drawable/right_jiantou"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        />
+
+                </RelativeLayout>
+
+
+
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="#f2f2f2"/>
+
+            <cn.xiaocool.wxtteacher.ui.NoScrollListView
+                android:id="@+id/attend_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:listSelector="@color/white">
+
+            </cn.xiaocool.wxtteacher.ui.NoScrollListView>
+
+
+        </LinearLayout>
+
+
+
+    </cn.xiaocool.wxtteacher.ui.ReboundScrollView>
+
+
+
+</LinearLayout>

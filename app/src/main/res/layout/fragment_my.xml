@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#9be5b4"></LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="#9be5b4">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="我的"
+                android:textColor="@color/title_color"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/settint_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="10dp"
+                android:background="@drawable/ic_set" />
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <cn.xiaocool.wxtteacher.ui.ReboundScrollView
+        android:id="@+id/scrollView_activity_me"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0"
+        android:background="@color/zsq_bg_color"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/zsq_bg_color"
+            android:orientation="vertical">
+            <!--上面的波浪-->
+            <!--<RelativeLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="60dp"-->
+            <!--android:background="@color/whilte">-->
+
+            <!--<ImageView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/wave"-->
+            <!--/>-->
+            <!--</RelativeLayout>-->
+
+            <!--老师信息模块-->
+            <include layout="@layout/function_teacher"></include>
+            <!--修改密码-->
+            <!--<include layout="@layout/my_change_password"></include>-->
+            <!--我的积分-->
+            <include layout="@layout/my_my_score"></include>
+            <!--扫一扫打卡-->
+            <include layout="@layout/my_clock"></include>
+            <!--刷卡设置-->
+            <!--<include layout="@layout/my_setting"></include>-->
+            <!--系统公告-->
+            <!--<include layout="@layout/my_announcement"></include>-->
+            <!--使用帮助-->
+            <!--<include layout="@layout/my_help"></include>-->
+            <!--意见反馈-->
+            <!--<include layout="@layout/my_suggest"></include>-->
+            <!--维护人员-->
+            <include layout="@layout/my_maintain"></include>
+            <!--在线客服-->
+            <include layout="@layout/my_online_service"></include>
+            <!--清除缓存-->
+            <!--<include layout="@layout/my_clean_cache"></include>-->
+            <!--二维码下载-->
+            <!--<include layout="@layout/my_qrcode_dowland"></include>-->
+            <!--退出登录-->
+            <include layout="@layout/system_tongzhi"></include>
+
+            <include layout="@layout/app_share"></include>
+
+
+        </LinearLayout>
+
+
+    </cn.xiaocool.wxtteacher.ui.ReboundScrollView>
+
+
+</LinearLayout>

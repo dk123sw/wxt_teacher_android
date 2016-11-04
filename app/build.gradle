@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "cn.xiaocool.wxtteacher"
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+//apply plugin: 'com.neenbedankt.android-apt'//增加这一句
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':libzxing')
+//    compile project(':easeui')
+    compile 'com.android.support:multidex:'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.slider:library:1.1.5@aar'
+    compile 'com.7heaven.widgets:segmentcontrol:1.14'
+    compile 'cn.finalteam:galleryfinal:1.4.6'
+    compile 'com.baoyz.actionsheet:library:1.1.4'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.kaopiz:kprogresshud:1.0.5'
+    compile 'com.google.code.gson:gson:2.7'
+    compile files('libs/android-async-http-master.jar')
+    compile files('libs/bolts-android-1.2.0.jar')
+    compile files('libs/httpmime-4.1.2.jar')
+    compile files('libs/jg_filter_sdk_1.1.jar')
+    compile files('libs/jsoup-1.8.3.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/mta-mid-sdk-2.20.jar')
+    compile files('libs/mta-sdk-1.0.0.jar')
+    compile files('libs/open_sdk.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile files('libs/org.json.jar')
+    compile files('libs/Parse-1.9.4.jar')
+    compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
+    compile files('libs/volley.jar')
+    compile 'com.zhy:okhttputils:2.6.2'
+    compile 'com.squareup.okio:okio:1.5.0'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile files('libs/badgeview.jar')
+    compile 'com.lguipeng.bubbleview:library:1.0.0'
+}

@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:descendantFocusability="blocksDescendants"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <cn.xiaocool.wxtteacher.ui.RoundImageView
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_margin="5dip"
+                android:scaleType="centerInside"
+                android:id="@+id/item_head"
+                android:src="@drawable/default_square" />
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_stu_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="妞妞"
+            android:textSize="16sp"
+            android:textColor="@color/zsq_text_gray_color"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/tv_stu_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="签到30天，缺勤0天"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:gravity="center_vertical"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/zsq_bg2_color"></View>
+
+
+
+</LinearLayout>

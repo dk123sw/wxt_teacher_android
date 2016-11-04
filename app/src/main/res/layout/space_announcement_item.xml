@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginTop="@dimen/activity_size_1">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/activity_size_45"
+        android:orientation="vertical"
+    android:layout_weight="1">
+    <TextView
+        android:layout_width="@dimen/activity_size_300"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_15"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/annou_content" />
+</LinearLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_size_45"
+        android:layout_weight="5"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="@dimen/activity_size_16"
+            android:layout_height="@dimen/activity_size_22"
+            android:background="@drawable/gray_arrow"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+
+    </LinearLayout>

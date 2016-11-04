@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_recommend_picture"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/textview_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_picture_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="10dip"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:id="@+id/layout_picture"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_picture_title"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/iv_picture1_img"
+                android:layout_width="0dip"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@color/view_color"
+                android:scaleType="centerCrop" />
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/iv_picture2_img"
+                android:layout_width="0dip"
+                android:layout_height="60dp"
+                android:layout_marginLeft="7dip"
+                android:layout_weight="1"
+                android:background="@color/view_color"
+                android:scaleType="centerCrop" />
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/iv_picture3_img"
+                android:layout_width="0dip"
+                android:layout_height="60dp"
+                android:layout_marginLeft="7dip"
+                android:layout_marginRight="7dip"
+                android:layout_weight="1"
+                android:background="@color/view_color"
+                android:scaleType="centerCrop" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_pinlun"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_alignLeft="@+id/layout_picture"
+            android:layout_alignRight="@+id/layout_picture"
+            android:layout_below="@+id/layout_picture"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:id="@+id/tv_picture_pinlun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="15dip"
+                android:layout_toRightOf="@+id/tv_picture_canyin"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_picture_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dip"
+                android:layout_toRightOf="@id/tv_picture_pinlun"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_picture_canyin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_picture_zhuanti"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="3dp"
+                android:layout_marginRight="8dp"
+                android:background="@color/blue"
+                android:gravity="center"
+                android:text="专题"
+                android:textColor="@color/title_color"
+                android:textSize="12sp"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

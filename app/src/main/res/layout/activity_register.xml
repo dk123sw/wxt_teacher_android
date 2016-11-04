@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_ground_color"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="@string/register_input_phone"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_fanhui"
+                android:id="@+id/forget_btn_back" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="@dimen/activity_size_10"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="@drawable/phone_number"
+
+            />
+
+        <!--手机号码输入框-->
+        <EditText
+            android:id="@+id/edit_phone_number"
+            android:layout_width="210dp"
+            android:layout_height="56dp"
+            android:background="@null"
+            android:hint="请输入手机号码"
+            android:layout_marginLeft="90dp"
+            android:textSize="16sp"
+            android:textColor="@color/list_content_color"
+            android:layout_alignBottom="@+id/phone_number"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+86"
+            android:layout_above="@+id/zhongjianhengxian"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+
+
+            />
+        <ImageView
+            android:id="@+id/zhongjianhengxian"
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_below="@+id/phone_number"
+            />
+
+        <ImageView
+            android:id="@+id/huoquyanzhengma"
+            android:layout_width="375dp"
+            android:layout_height="56dp"
+            android:background="@drawable/phone_number"
+            android:layout_below="@+id/zhongjianhengxian"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="验证码"
+            android:layout_below="@+id/zhongjianhengxian"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+
+
+            />
+
+        <!--输入验证码-->
+        <EditText
+            android:layout_width="180dp"
+            android:layout_height="56dp"
+            android:background="@null"
+            android:layout_marginLeft="90dp"
+            android:layout_alignBottom="@+id/huoquyanzhengma"
+            android:hint="请输入验证码"
+            android:textSize="16sp"
+            android:textColor="@color/list_content_color"
+            android:id="@+id/edit_verifycode" />
+
+        <!--获取验证码按钮-->
+        <Button
+            android:id="@+id/yanzhengma"
+            android:layout_width="113dp"
+            android:layout_height="42dp"
+            android:background="@drawable/button_boder_green"
+            android:text="获取验证码"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:layout_below="@+id/zhongjianhengxian"
+            android:layout_alignRight="@+id/zhongjianhengxian"
+            android:layout_marginTop="6.5dp"
+
+
+
+
+
+
+            />
+        <Button
+            android:layout_width="291dp"
+            android:layout_height="48dp"
+            android:background="@drawable/button_boder_green"
+            android:text="下一步"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_below="@+id/huoquyanzhengma"
+            android:layout_marginBottom="32dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp"
+            android:id="@+id/btn_next" />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

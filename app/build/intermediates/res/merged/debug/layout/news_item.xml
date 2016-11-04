@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="68dp"
+    android:id="@+id/news_item"
+    android:background="@color/whilte"
+    android:layout_marginTop="9dp">
+
+
+    <!--最新消息左边的小图标-->
+    <ImageView
+        android:id="@+id/news_pic"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/news_contacts_head"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="13dp"
+        />
+    <!--文字-->
+    <TextView
+        android:id="@+id/news_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text=""
+        android:textSize="@dimen/text_size_18"
+        android:layout_toRightOf="@+id/news_pic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="14dp"
+
+
+        />
+    <!--文字下面介绍-->
+
+    <TextView
+        android:id="@+id/news_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:singleLine="true"
+        android:textSize="@dimen/text_size_15"
+        android:layout_toRightOf="@+id/news_pic"
+        android:layout_below="@+id/news_name"
+        android:layout_marginTop="1dp"
+        android:textColor="@color/gray"
+        android:layout_marginLeft="14dp"
+
+
+        />
+
+
+
+
+</RelativeLayout>

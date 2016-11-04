@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:id="@+id/my_exit"
+    android:layout_marginTop="50dp"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="退出登录"
+        android:textColor="@color/white"
+        android:background="@drawable/cornners_layout"
+        android:layout_margin="10dp"/>
+
+</RelativeLayout>

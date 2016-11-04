@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="@dimen/activity_size_50"
+    android:orientation="horizontal"
+    android:background="@color/whilte"
+    android:layout_marginTop="@dimen/activity_size_1">
+    <!--左边小图标-->
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/my_setting"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/activity_size_15"
+        />
+    <!-- 文字-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/setting"
+        android:textSize="@dimen/text_size_18"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/activity_size_15"
+        />
+
+</LinearLayout>

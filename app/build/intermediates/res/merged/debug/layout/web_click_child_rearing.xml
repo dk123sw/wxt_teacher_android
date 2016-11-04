@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/main_ground_color">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/title_bg_color"
+            android:gravity="center"
+            android:text="育儿知识"
+            android:textColor="@color/whilte"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/up_jiantou"
+            android:layout_width="50dip"
+            android:layout_height="fill_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/left_jiantou"
+                android:id="@+id/btn_exit" />
+        </RelativeLayout>
+    </RelativeLayout>
+    
+    
+ <cn.xiaocool.wxtparent.ui.ReboundScrollView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content">
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@color/whilte"
+         android:orientation="vertical">
+         <ImageView
+             android:layout_gravity="center_horizontal"
+             android:layout_width="320dp"
+             android:layout_height="@dimen/activity_size_200"
+             android:background="@drawable/web_child_rearing_pic"
+             android:layout_marginTop="@dimen/activity_size_20"
+             />
+
+         <TextView
+             android:layout_width="320dp"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginTop="@dimen/activity_size_20"
+             android:text="微校通教师端"
+             android:textSize="@dimen/text_size_18"
+             />
+
+     </LinearLayout>
+
+
+
+ </cn.xiaocool.wxtparent.ui.ReboundScrollView>
+
+</LinearLayout>
