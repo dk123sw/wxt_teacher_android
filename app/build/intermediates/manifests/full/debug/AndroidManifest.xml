@@ -194,8 +194,6 @@
         <activity android:name="cn.xiaocool.wxtteacher.main.WebClickEditActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.MySendMessageToTeacherActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.FunctionWeekendPlanActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.HotNewsContentActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.HotNewsSendActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.NewsGroupActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AddChildrenActivity" />
         <activity
@@ -203,7 +201,6 @@
             android:windowSoftInputMode="adjustPan" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AnnouncementActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.SpaceClickHomeworkActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.WriteCollectActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.ChooseCollectActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AddHomeworkActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.MyClassListActivity" />
@@ -223,7 +220,6 @@
         <activity android:name="cn.xiaocool.wxtteacher.main.BacklogDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.HomeworkDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.BacklogNextDetailActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.AllMemberActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AlbumDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AddAlbumActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.RecipeImgDetailActivity" />
@@ -233,16 +229,13 @@
             android:name="cn.xiaocool.wxtteacher.main.TeacherSingleReviewActivity"
             android:windowSoftInputMode="stateHidden|stateUnchanged" />
         <activity android:name="cn.xiaocool.wxtteacher.main.NewsGroupReciveDetailActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.ParadiseMlxtActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.WriteAnnouncementActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.SpaceClassAttendanceActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.TeacherReviewDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.SpaceClickGrowActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.ShowImageActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AddClassEventActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.ReadAndNoreadActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.NewsGroupDetailActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.ImgDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.ClassEventsDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.AddConfimActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.CoursewareDetailActivity" />
@@ -267,7 +260,6 @@
         <activity android:name="cn.xiaocool.wxtteacher.main.FunctionWeekendPlanDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.UpdatePhoneActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.ClassEventReadAndNreadActivity" />
-        <activity android:name="cn.xiaocool.wxtteacher.main.ParadiseEventActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.IntroduceClassActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.PeopleCountActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.ChooseSubjectActivity" />

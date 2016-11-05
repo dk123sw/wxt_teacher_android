@@ -34,6 +34,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -46,6 +47,7 @@ import cn.xiaocool.wxtteacher.bean.UserInfo;
 import cn.xiaocool.wxtteacher.dao.CommunalInterfaces;
 import cn.xiaocool.wxtteacher.main.CircleImagesActivity;
 import cn.xiaocool.wxtteacher.main.NoticeReciveDetailActivity;
+import cn.xiaocool.wxtteacher.main.ReadAndNoreadActivity;
 import cn.xiaocool.wxtteacher.net.request.constant.NetUtil;
 import cn.xiaocool.wxtteacher.ui.NoScrollGridView;
 import cn.xiaocool.wxtteacher.ui.ProgressViewUtil;
@@ -348,6 +350,23 @@ public class NoticeReciveFragment extends Fragment {
                 }
             }
             holder.alread_text.setText("总发" + homeworkDataList.get(position).getReceiv_list().size() + " 已读" + alreadyReads.size() + " 未读" + notReads.size());
+            holder.alread_text.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+
+                    Intent intent = new Intent();
+                    intent.setClass(mContext, ReadAndNoreadActivity.class);
+                    intent.putExtra("type","recivenotice");
+                    Bundle bundle = new Bundle();
+                    bundle.putSerializable("notReads", (Serializable) notReads);//序列化
+                    bundle.putSerializable("alreadyReads", (Serializable) alreadyReads);
+                    intent.putExtras(bundle);//发送数据
+//                intent.putExtras("notReads",(Serializable)notReads);
+                    mContext.startActivity(intent);//启动intent
+
+                }
+            });
+
 
             Date date = new Date();
             date.setTime(Long.parseLong(homeworkDataList.get(position).getNotice_info().get(0).getCreate_time()) * 1000);
@@ -394,6 +413,8 @@ public class NoticeReciveFragment extends Fragment {
                             imgs.add(homeworkDataList.get(position).getPic().get(0).getPhoto().toString());
                             Intent intent = new Intent(mContext, CircleImagesActivity.class);
                             intent.putStringArrayListExtra("Imgs", imgs);
+                            intent.putExtra("type", "newsgroup");
+                            intent.putExtra("position", 0);
                             mContext.startActivity(intent);
                         }
                     });
