@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

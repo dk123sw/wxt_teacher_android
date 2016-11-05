@@ -1,1018 +1,358 @@
 [
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem_grey.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem_grey.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cornners_layout.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\cornners_layout.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_face_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_face_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_voice_btn.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_voice_btn.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_voice_call_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_voice_call_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_02.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_02.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\rounded_button.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\rounded_button.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\camera_switch_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\camera_switch_normal.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_file_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_file_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cornners_layout.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\cornners_layout.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_file_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_file_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_takepic_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_takepic_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_voice_playing_f2.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_voice_playing_f2.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_bar_edit_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\search_bar_edit_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\roominfo_add_btn_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\roominfo_add_btn_normal.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\type_select_btn.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\type_select_btn.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\call_answer_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\call_answer_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_location_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_location_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_quxiao_focused.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_quxiao_focused.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_04.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_04.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_blue.jpg",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\add_blue.jpg"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_image_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_image_normal.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\input_bar_bg_active.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\input_bar_bg_active.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_normal_shape.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\button_normal_shape.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gf_camera.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\ic_gf_camera.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_video_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_cat.jpg",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_cat.jpg"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_face_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_face_normal.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_call_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_call_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_normal_shape.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\btn_blue_normal_shape.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cornners_layout_orange.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\cornners_layout_orange.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\msg_state_fail_resend.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\msg_state_fail_resend.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_share_blue.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_share_blue.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\app_panel_video_icon.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\app_panel_video_icon.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_file_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_file_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_voice_call_self.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_voice_call_self.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\photogrid_list_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\photogrid_list_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\show_head_toast_bg.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\show_head_toast_bg.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recording_hint_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\recording_hint_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_clear.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_clear.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sidebar_background_pressed.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\sidebar_background_pressed.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_image_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_image_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_mask_to.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_mask_to.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_send_btn_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_send_btn_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_item_file.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_item_file.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_call_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_video_call_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\asv.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\asv.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_clear_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_clear_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_selector_shape.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\button_selector_shape.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\video.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\video.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\button_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem_grey.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem_grey.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_voice_playing_f1.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_voice_playing_f1.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_point_pre.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_point_pre.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\camera_switch_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\camera_switch_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_bink_back.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\add_bink_back.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_white.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\add_white.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_normal_shape.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\btn_blue_normal_shape.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem_pressed.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem_pressed.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\groups_icon.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\groups_icon.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\type_select_btn.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\type_select_btn.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_tab_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\common_tab_bg.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sreach_subject_like.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\sreach_subject_like.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_takepic_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_takepic_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\context_menu_item_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\context_menu_item_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cornners_layout_orange.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\cornners_layout_orange.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_keyboard_btn.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\context_menu_item_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\context_menu_item_bg.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\msg_state_failed_resend.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\msg_state_failed_resend.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\btn_blue_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_biaoqing_btn_enable.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_biaoqing_btn_enable.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_keyboard_btn_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\roominfo_add_btn.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\roominfo_add_btn.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\right_whit.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\right_whit.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_pressed_shape.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_title_remove.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_title_remove.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\call_hangup_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\call_hangup_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\call_hangup_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\call_hangup_bg.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_voice_btn_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_voice_btn_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\camera_switch_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\camera_switch_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\msg_state_failed_resend.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\msg_state_failed_resend.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\audit_scope_spinner_ground_on.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\audit_scope_spinner_ground_on.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_shu.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_shu.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_whrit.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\back_whrit.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_cat.jpg",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\icon_cat.jpg"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\article_img.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\article_img.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_voice_call_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_voice_call_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_14.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_14.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_image_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_image_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\subscription.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\subscription.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_image.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\default_image.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\unread_dot.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\unread_dot.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_location_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_location_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_add_attention.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\back_add_attention.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_msg_text_color.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\menu_msg_text_color.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_press_speak_btn_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_press_speak_btn_normal.9.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_img.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\add_img.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_call_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_call_pressed.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_praise_red.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_praise_red.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_tab_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\common_tab_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_shanchu_focused.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_shanchu_focused.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_mute_on.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_mute_on.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_woman.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_woman.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recording_text_hint_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\recording_text_hint_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_error_item_bg.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_error_item_bg.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_bar_edit_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_bar_edit_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_clear.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\search_clear.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_add_friend.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\back_add_friend.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gf_clear.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\ic_gf_clear.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_blue.jpg",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\add_blue.jpg"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_07.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_07.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\video_download_btn_nor.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\video_download_btn_nor.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_secretary.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_secretary.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recording_text_hint_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\recording_text_hint_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_10.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_10.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\actionbar_camera_icon.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\actionbar_camera_icon.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg_focused.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg_focused.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_mute_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_mute_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\new_friends_icon.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\new_friends_icon.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_subject.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_subject.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gf_ic_preview.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\gf_ic_preview.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_takepic_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_takepic_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_call_receive.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_call_receive.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_pwd.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_pwd.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\slidetab_bg_press.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\slidetab_bg_press.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_shanchu_unfocused.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_shanchu_unfocused.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\signin_local_gallry.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\signin_local_gallry.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_voice_call_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_voice_call_selector.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_location_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_location_pressed.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_report_on.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_report_on.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\camera_switch_pressed.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\camera_switch_pressed.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_on.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_on.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_clear_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_clear_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_06.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_06.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\call_answer_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\call_answer_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg_focused.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg_focused.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_cancel_attention.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\back_cancel_attention.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\building_ring_add_img.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\building_ring_add_img.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\address_img_dian.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\address_img_dian.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\roominfo_add_btn.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\roominfo_add_btn.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\input_bar_bg_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\input_bar_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\src_black.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\src_black.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\btn_blue_selector.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\type_select_btn_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\type_select_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_pressed.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\group_icon.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\group_icon.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_edit_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_edit_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_head.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_head.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_voice_playing_f1.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_voice_playing_f1.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_keyboard_btn.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_keyboard_btn.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\app_pref_bg.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\app_pref_bg.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_press_speak_btn_pressed.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_press_speak_btn_pressed.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gf_rotate.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\ic_gf_rotate.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gf_done.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\ic_gf_done.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_voice_playing.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_voice_playing.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_send_btn_pressed.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_send_btn_pressed.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_image_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_image_selector.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\areacode.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\areacode.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_biaoqing_btn_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_biaoqing_btn_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\photogrid_list_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\photogrid_list_selector.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\type_select_btn_nor.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\type_select_btn_nor.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_voice_btn.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_voice_btn.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_normal_shape.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\button_normal_shape.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\button_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gf_back.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\ic_gf_back.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_voice_call_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_voice_call_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_speaker_on.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_speaker_on.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_error_item_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_error_item_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_05.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_05.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_voice_playing.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_voice_playing.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_praise_blue.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_praise_blue.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\location_msg.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\location_msg.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_01.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_01.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_pressed_shape.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\btn_blue_pressed_shape.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem_grey_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem_grey_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem_disable.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem_disable.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\voice_unread.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\voice_unread.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_msg_text_color.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\menu_msg_text_color.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_bar_edit_pressed.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_bar_edit_pressed.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\msg_state_fail_resend_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\msg_state_fail_resend_pressed.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_file_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_file_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_press_speak_btn.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_press_speak_btn.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_speaker_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_speaker_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\rounded_button.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\rounded_button.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_call_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_call_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_voice_playing_f3.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_voice_playing_f3.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_nm.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_nm.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_public_group.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\add_public_group.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_video_call_self.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_video_call_self.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\building_ring_release.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\building_ring_release.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\video_recorder_stop_btn.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\video_recorder_stop_btn.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_11.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_11.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_transparent.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\bg_transparent.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatto_bg_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatto_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_bink_submit.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\add_bink_submit.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\asy.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\asy.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_black.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\back_black.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_keyboard_btn_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_red.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_red.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_08.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_08.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_12.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_12.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_report.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_report.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem_simple.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem_simple.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mm_listitem.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\mm_listitem.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\article_img1.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\article_img1.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_marka.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_marka.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sidebar_background_pressed.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\sidebar_background_pressed.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_expert.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_expert.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_bg_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recording_hint_bg.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\recording_hint_bg.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_queding_focused.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_queding_focused.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_bar_edit_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\search_bar_edit_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\video_play_btn_small_nor.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\video_play_btn_small_nor.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_selector_shape.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\button_selector_shape.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_point.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_point.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_quxiao_unfocused.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_quxiao_unfocused.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_send_btn_normal.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_send_btn_normal.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_report1.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_report1.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_voice_playing_f3.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_voice_playing_f3.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\audit_scope_spinner_ground.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\audit_scope_spinner_ground.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gf_crop.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable-mdpi\\ic_gf_crop.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\roominfo_add_btn_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\roominfo_add_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\empty_photo.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\empty_photo.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\expand.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\expand.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_13.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_13.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\information_comment_back.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\information_comment_back.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ee_99.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\ee_99.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_queding_unfocused.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\icon_queding_unfocused.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatting_setmode_voice_btn_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatting_setmode_voice_btn_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_takepic_pressed.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_takepic_pressed.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chatfrom_voice_playing_f2.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chatfrom_voice_playing_f2.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\video_recorder_start_btn.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\video_recorder_start_btn.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_send_btn_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_send_btn_selector.xml"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_09.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_09.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_voice_call_receive.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_voice_call_receive.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\apply.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\apply.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\record_animate_03.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\record_animate_03.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_location_normal.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\chat_location_normal.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue.png",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\drawable-mdpi\\btn_blue.png"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_press_speak_btn.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable-mdpi\\chat_press_speak_btn.xml"
     }
 ]

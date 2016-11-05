@@ -33,7 +33,7 @@ public class CircleImagesActivity extends Activity implements ViewPager.OnPageCh
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         this.setContentView(R.layout.activity_image_browse);
-        steepStatusBar();
+//        steepStatusBar();
         vp = (ViewPager) this.findViewById(R.id.viewPager);
         hint = (TextView) this.findViewById(R.id.hint);
         save = (TextView) this.findViewById(R.id.save);
@@ -94,6 +94,21 @@ public class CircleImagesActivity extends Activity implements ViewPager.OnPageCh
         intent.putStringArrayListExtra("Imgs",images);
         intent.putExtra("position",position);
         context.startActivity(intent);
+    }
+
+    @Override
+    public void onWindowFocusChanged(boolean hasFocus) {
+        super.onWindowFocusChanged(hasFocus);
+        if (hasFocus && Build.VERSION.SDK_INT >= 19) {
+            View decorView = getWindow().getDecorView();
+            decorView.setSystemUiVisibility(
+                    View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+                            | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+                            | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
+                            | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
+                            | View.SYSTEM_UI_FLAG_FULLSCREEN
+                            | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+        }
     }
 
 

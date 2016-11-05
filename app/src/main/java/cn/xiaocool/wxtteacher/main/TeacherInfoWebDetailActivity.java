@@ -81,7 +81,7 @@ public class TeacherInfoWebDetailActivity extends Activity {
     public void showPopFormBottom(View view) {
         takePhotoPopWin = new SharePopupWindow(this, onClickListener);
         //SharePopupWindow takePhotoPopWin = new SharePopupWindow(this, onClickListener);
-        takePhotoPopWin.showAtLocation(findViewById(R.id.webView), Gravity.BOTTOM, 0, 0);
+        takePhotoPopWin.showAtLocation(findViewById(R.id.webView), Gravity.TOP, 0, 0);
     }
 
     private View.OnClickListener onClickListener = new View.OnClickListener() {

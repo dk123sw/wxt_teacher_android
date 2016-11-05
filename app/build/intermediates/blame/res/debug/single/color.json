@@ -1,78 +1,78 @@
 [
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_adddress.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\color_adddress.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\subscribe_item_text_color.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\subscribe_item_text_color.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\folder_text_color.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\folder_text_color.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\button_text_color.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\button_text_color.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_adddress.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\color_adddress.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\subscribe_item_text_color.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\subscribe_item_text_color.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\button_text_color.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\button_text_color.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\folder_text_color.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\folder_text_color.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\top_category_scroll_text_color_day.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\top_category_scroll_text_color_day.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\colorbutton.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\colorbutton.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\btn_selector.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\btn_selector.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\colorbutton.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\colorbutton.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\top_category_scroll_text_color_day.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\top_category_scroll_text_color_day.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\default_text_color.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\default_text_color.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\btn_common_text.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\btn_common_text.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\default_text_color.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\default_text_color.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\btn_selector.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\color\\btn_selector.xml"
     },
     {
-        "merged": "F:\\newApp\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\color\\btn_common_text.xml",
-        "source": "F:\\newApp\\wxt_teacher_android\\app\\src\\main\\res\\color\\btn_common_text.xml"
+        "merged": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     }
 ]
