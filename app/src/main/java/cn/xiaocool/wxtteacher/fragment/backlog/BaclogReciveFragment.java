@@ -90,6 +90,7 @@ public class BaclogReciveFragment extends Fragment {
                                 for (int j = 0; j < reciverArray.length(); j++) {
                                     JSONObject picObject = reciverArray.optJSONObject(j);
                                     Backlog.BacklogData.Reciverlist picData = new Backlog.BacklogData.Reciverlist();
+                                    picData.setId(picObject.optString("userid"));
                                     picData.setName(picObject.optString("name"));
                                     picData.setFeedback(picObject.optString("feedback"));
                                     picData.setFinish(picObject.optString("finish"));

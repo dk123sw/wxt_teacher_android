@@ -127,6 +127,7 @@ public class SimpleTreeAdapter<T> extends TreeListViewAdapter<T>
 				Intent intent = new Intent(mContext,TeacherCommunicationActivity.class);
 				intent.putExtra("reciver_id", String.valueOf(finalModel.get_id()));
 				intent.putExtra("chat_name",finalModel.getName());
+				intent.putExtra("usertype","0");
 				mContext.startActivity(intent);
 			}
 		});

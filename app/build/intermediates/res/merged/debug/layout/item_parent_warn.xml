@@ -38,7 +38,7 @@
                     android:layout_gravity="center_vertical">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:orientation="vertical" >
@@ -68,7 +68,7 @@
 
                         <RelativeLayout
                             android:id="@+id/relativeLayout_profession_circle_item_content"
-                            android:layout_width="wrap_content"
+                            android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="5dp"
                             >
@@ -76,7 +76,6 @@
                                 android:id="@+id/item_time"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:layout_marginRight="@dimen/activity_size_10"
                                 android:textSize="14sp"
                                 android:text="20:20"
                                 android:textColor="@color/list_time_color"

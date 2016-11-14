@@ -117,7 +117,7 @@ public class SpaceClickLeaveActivity extends Activity{
                                 parentWarnData.setClassname(itemObject.optString("classname"));
                                 parentWarnData.setTeachername(itemObject.optString("teachername"));
                                 parentWarnData.setTeacheravatar(itemObject.optString("teacheravatar"));
-
+                                parentWarnData.setLeavetype(itemObject.optString("leavetype"));
                                 parentWarnData.setTeacherphone(itemObject.optString("teacherphone"));
                                 parentWarnData.setParentname(itemObject.optString("parentname"));
                                 parentWarnData.setParentavatar(itemObject.optString("parentavatar"));

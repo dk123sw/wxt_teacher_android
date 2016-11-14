@@ -21,15 +21,35 @@
                 android:orientation="vertical"
                 >
 
-                <TextView
-                    android:id="@+id/parent_warn_title"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:textSize="16sp"
-                    android:textColor="@color/list_title_color"
-                    android:text="标题"
-                    />
+              <RelativeLayout
+                  android:id="@+id/first_row"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  >
+                  <TextView
+                      android:id="@+id/parent_warn_title"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_margin="10dp"
+                      android:textSize="16sp"
+                      android:textColor="@color/list_title_color"
+                      android:text="标题"
+                      />
+
+                  <TextView
+                      android:id="@+id/row_status"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="status"
+                      android:layout_alignParentRight="true"
+                      android:textSize="14sp"
+                      android:layout_margin="10dp"
+                      android:textColor="@color/thb_orange"
+                      />
+
+              </RelativeLayout>
+
                 <TextView
                     android:id="@+id/parent_warn_content"
                     android:layout_width="match_parent"
@@ -44,7 +64,7 @@
                     android:layout_height="@dimen/one_pic_height"
                     android:layout_margin="@dimen/activity_size_10"
                     android:id="@+id/homework_img"
-                    android:scaleType="fitXY"
+                    android:scaleType="centerCrop"
                     android:layout_centerHorizontal="true"
                     />
                 <cn.xiaocool.wxtteacher.ui.NoScrollGridView

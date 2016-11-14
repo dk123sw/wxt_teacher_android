@@ -381,7 +381,6 @@
             android:name="JPUSH_APPKEY"
             android:value="65ebc0b00c2635f68ec2ec52" />
         <!-- </>值来自开发者平台取得的AppKey -->
-        <activity android:name=".main.SuggestListActivity"></activity>
     </application>
 
 </manifest>

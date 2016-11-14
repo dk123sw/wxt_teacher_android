@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,52 @@
                     "endOffset": 299
                 },
                 "from": {
-                    "file": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\values-w820dp\\attrs.xml",
+                    "file": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/values-w820dp/attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 7,
+                        "endColumn": 24,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 57,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 57,
+                        "endOffset": 621
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 24,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\values-w820dp\\attrs.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -32,7 +77,7 @@
                     "endOffset": 357
                 },
                 "from": {
-                    "file": "E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

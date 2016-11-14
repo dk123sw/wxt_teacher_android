@@ -15,6 +15,7 @@ import android.widget.TextView;
 
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
 
 import java.text.SimpleDateFormat;
@@ -25,6 +26,7 @@ import cn.xiaocool.wxtteacher.R;
 import cn.xiaocool.wxtteacher.adapter.ImgGridAdapter;
 import cn.xiaocool.wxtteacher.adapter.ReciverBaclogAdapter;
 import cn.xiaocool.wxtteacher.bean.Backlog;
+import cn.xiaocool.wxtteacher.bean.UserInfo;
 import cn.xiaocool.wxtteacher.net.request.constant.NetBaseConstant;
 import cn.xiaocool.wxtteacher.ui.NoScrollListView;
 
@@ -32,7 +34,7 @@ public class BacklogDetailActivity extends Activity implements View.OnClickListe
     private Backlog.BacklogData backlogData;
     private Context context;
     private TextView tv_username,tv_usertype,tv_time,tv_title,tv_content,tv_reciver,tv_btn_next;
-    private ImageView iv_head;
+    private ImageView iv_head,homework_img;
     private RelativeLayout rl_back;
     private GridView parent_warn_img_gridview;
     private NoScrollListView reciver_list;
@@ -53,6 +55,7 @@ public class BacklogDetailActivity extends Activity implements View.OnClickListe
     }
 
     private void initview() {
+        homework_img = (ImageView) findViewById(R.id.homework_img);
         rl_back = (RelativeLayout) findViewById(R.id.up_jiantou);
         rl_back.setOnClickListener(this);
         tv_username = (TextView) findViewById(R.id.item_title);
@@ -82,6 +85,7 @@ public class BacklogDetailActivity extends Activity implements View.OnClickListe
         tv_title.setText(backlogData.getTitle());
         tv_content.setText(backlogData.getContent());
         if (backlogData.getPic().size()>1){
+            homework_img.setVisibility(View.GONE);
             parent_warn_img_gridview.setVisibility(View.VISIBLE);
             final ArrayList<String> imgs = new ArrayList<>();
             for (int i=0;i<backlogData.getPic().size();i++){
@@ -102,14 +106,33 @@ public class BacklogDetailActivity extends Activity implements View.OnClickListe
                 }
             });
 
-        }else{
+        }else if (backlogData.getPic().size()==1&&!backlogData.getPic().get(0).getPictureurl().equals("")&&!backlogData.getPic().get(0).getPictureurl().equals("null")){
+            homework_img.setVisibility(View.VISIBLE);
             parent_warn_img_gridview.setVisibility(View.GONE);
+            imageLoader.init(ImageLoaderConfiguration.createDefault(context));
+            imageLoader.displayImage(NetBaseConstant.NET_CIRCLEPIC_HOST + backlogData.getPic().get(0).getPictureurl(), homework_img, displayImage);
+            homework_img.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    ArrayList<String> list = new ArrayList<String>();
+                    list.add(backlogData.getPic().get(0).getPictureurl());
+                    // 图片浏览
+                    Intent intent = new Intent();
+                    intent.setClass(context, CircleImagesActivity.class);
+                    intent.putStringArrayListExtra("Imgs", list);
+                    intent.putExtra("type", "4");
+                    context.startActivity(intent);
+                }
+            });
+        }else {
+            parent_warn_img_gridview.setVisibility(View.GONE);
+            homework_img.setVisibility(View.GONE);
         }
 
         reciver_list.setAdapter(new ReciverBaclogAdapter(backlogData.getReciverlist(),this));
 
 
-        if (backlogData.getType().equals("1")||backlogData.getType().equals("send")){
+        if (backlogData.getType().equals("1")||backlogData.getType().equals("send")||backlogData.getUserid().equals(new UserInfo(context).getUserId())){
             tv_btn_next.setVisibility(View.GONE);
         }
 

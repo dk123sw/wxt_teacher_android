@@ -254,6 +254,7 @@ public class NewsGroupDetailActivity extends Activity {
 
                 Intent intent=new Intent();
                 intent.setClass(context, ReadAndNoreadActivity.class);
+                intent.putExtra("type","");
                 Bundle bundle=new Bundle();
                 bundle.putSerializable("notReads",(Serializable)notReads);//序列化
                 bundle.putSerializable("alreadyReads", (Serializable)alreadyReads);

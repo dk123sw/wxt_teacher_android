@@ -17,6 +17,7 @@ import cn.xiaocool.wxtteacher.main.ReceiveParentWarnActivity;
 import cn.xiaocool.wxtteacher.main.SpaceClickAnnouActivity;
 import cn.xiaocool.wxtteacher.main.SpaceClickConfimActivity;
 import cn.xiaocool.wxtteacher.main.SpaceClickLeaveActivity;
+import cn.xiaocool.wxtteacher.main.TeacherCommunicationActivity;
 import cn.xiaocool.wxtteacher.utils.SPUtils;
 
 /**
@@ -45,9 +46,15 @@ public class PushReceiver extends BroadcastReceiver {
 
         if (type==null)return;
         String str = "";
+        String recid = "";
+        String usertype = "";
         try {
             JSONObject jsonObject = new JSONObject(type);
             str = jsonObject.getString("type");
+            if (str.equals("newMessage")){
+                recid = jsonObject.getString("txt");
+
+            }
         } catch (JSONException e) {
             Log.i(TAG, "JSONException" + type);
             e.printStackTrace();
@@ -142,6 +149,12 @@ public class PushReceiver extends BroadcastReceiver {
 
                 }else if (str.equals("comment")){//教师点评
 
+                }else if (str.equals("newMessage")){
+                    Intent i = new Intent(context, TeacherCommunicationActivity.class);
+                    i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP );
+                    i.putExtra("reciver_id",recid);
+                    i.putExtra("usertype",usertype);
+                    context.startActivity(i);
                 }else {
                     Intent i = new Intent(context, MainActivity.class);
                     i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP );

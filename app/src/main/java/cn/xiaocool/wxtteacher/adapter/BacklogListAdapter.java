@@ -3,6 +3,7 @@ package cn.xiaocool.wxtteacher.adapter;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,6 +12,7 @@ import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
@@ -128,9 +130,23 @@ public class BacklogListAdapter extends BaseAdapter{
             holder.homework_img.setVisibility(View.GONE);
         }
 
+        // TODO: 16/11/9 判断待办状态
+        holder.row_status.setVisibility(View.VISIBLE);
+        if (backlogDataList.get(position).getType().equals("0")){//0办理中 红色
+            holder.row_status.setText("办理中");
+            holder.row_status.setTextColor(context.getResources().getColor(R.color.red));
+        }else if (backlogDataList.get(position).getType().equals("1")){//1已完成  绿色
+            holder.row_status.setText("已完成");
+            holder.row_status.setTextColor(context.getResources().getColor(R.color.title_bg_color));
+        }else if (backlogDataList.get(position).getType().equals("2")){//2已转派  黄色
+            holder.row_status.setText("已转派");
+            holder.row_status.setTextColor(context.getResources().getColor(R.color.thb_orange));
+        }else {
+            holder.row_status.setVisibility(View.GONE);
+        }
 
 
-        holder.parent_warn_title.setOnClickListener(new View.OnClickListener() {
+        holder.first_row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 intentToDetail(backlogDataList.get(position));
@@ -174,10 +190,13 @@ public class BacklogListAdapter extends BaseAdapter{
 
 
     class ViewHolder{
-        TextView parent_warn_title,parent_warn_time,parent_warn_content,parent_warn_from;
+        TextView parent_warn_title,parent_warn_time,parent_warn_content,parent_warn_from,row_status;
         ImageView homework_img;
         GridView parent_warn_img_gridview;
+        RelativeLayout first_row;
         public ViewHolder(View convertView) {
+            row_status = (TextView) convertView.findViewById(R.id.row_status);
+            first_row = (RelativeLayout) convertView.findViewById(R.id.first_row);
             parent_warn_title = (TextView) convertView.findViewById(R.id.parent_warn_title);
             parent_warn_time = (TextView) convertView.findViewById(R.id.parent_warn_time);
             parent_warn_content = (TextView) convertView.findViewById(R.id.parent_warn_content);

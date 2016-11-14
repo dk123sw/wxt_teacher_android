@@ -51,6 +51,7 @@ public class LeaveModel implements Serializable {
     private String studentname;
     private String studentavatar;
     private ArrayList<String> pics;
+    private String leavetype;
 
 
     public String getStudentid() {
@@ -219,5 +220,13 @@ public class LeaveModel implements Serializable {
 
     public void setPics(ArrayList<String> pics) {
         this.pics = pics;
+    }
+
+    public String getLeavetype() {
+        return leavetype;
+    }
+
+    public void setLeavetype(String leavetype) {
+        this.leavetype = leavetype;
     }
 }

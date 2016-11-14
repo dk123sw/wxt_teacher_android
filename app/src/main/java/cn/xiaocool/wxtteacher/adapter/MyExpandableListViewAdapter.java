@@ -133,6 +133,7 @@ public class MyExpandableListViewAdapter extends BaseExpandableListAdapter {
                 Intent intent = new Intent(mContext,TeacherCommunicationActivity.class);
                 intent.putExtra("reciver_id", teacherID);
                 intent.putExtra("chat_name",teachersAddresses.get(groupPosition).get(childPosition).get("teacherName"));
+                intent.putExtra("usertype","1");
                 mContext.startActivity(intent);
             }
         });

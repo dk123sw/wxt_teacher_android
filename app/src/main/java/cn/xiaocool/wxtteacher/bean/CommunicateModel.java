@@ -28,7 +28,8 @@ public class CommunicateModel {
     private String send_nickname;
     private String receive_face;
     private String receive_nickname;
-
+    private String send_type;
+    private String receive_type;
     public String getId() {
         return id;
     }
@@ -107,5 +108,21 @@ public class CommunicateModel {
 
     public void setReceive_nickname(String receive_nickname) {
         this.receive_nickname = receive_nickname;
+    }
+
+    public String getSend_type() {
+        return send_type;
+    }
+
+    public void setSend_type(String send_type) {
+        this.send_type = send_type;
+    }
+
+    public String getReceive_type() {
+        return receive_type;
+    }
+
+    public void setReceive_type(String receive_type) {
+        this.receive_type = receive_type;
     }
 }

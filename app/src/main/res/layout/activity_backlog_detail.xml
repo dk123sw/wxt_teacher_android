@@ -152,6 +152,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/one_pic_height"
+                    android:layout_margin="@dimen/activity_size_10"
+                    android:id="@+id/homework_img"
+                    android:scaleType="centerCrop"
+                    android:layout_centerHorizontal="true"
+                    android:visibility="gone"/>
                 <cn.xiaocool.wxtteacher.ui.NoScrollGridView
                     android:id="@+id/parent_warn_img_gridview"
                     android:visibility="gone"

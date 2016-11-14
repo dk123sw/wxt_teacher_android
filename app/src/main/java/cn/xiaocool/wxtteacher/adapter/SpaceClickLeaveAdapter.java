@@ -99,7 +99,12 @@ public class SpaceClickLeaveAdapter extends BaseAdapter{
         holder.myhomework_content.setText(backlogDataList.get(position).getReason());
         holder.parent_warn_from.setText("受理人: " + backlogDataList.get(position).getTeachername());
         holder.item_time.setText(TimeToolUtils.fromateTimeShowByRule(Long.parseLong(backlogDataList.get(position).getCreate_time())*1000));
-
+        holder.leave_type_tv.setText(backlogDataList.get(position).getLeavetype());
+        if (backlogDataList.get(position).getLeavetype().equals("病假")){
+            holder.leave_type_tv.setTextColor(context.getResources().getColor(R.color.red));
+        }else {
+            holder.leave_type_tv.setTextColor(context.getResources().getColor(R.color.orange));
+        }
         //显示请假时间
         final String begin = TimeToolUtils.fromateTimeShowByRule(Long.parseLong(backlogDataList.get(position).getBegintime())*1000);
         String end = TimeToolUtils.fromateTimeShowByRule(Long.parseLong(backlogDataList.get(position).getEndtime())*1000);

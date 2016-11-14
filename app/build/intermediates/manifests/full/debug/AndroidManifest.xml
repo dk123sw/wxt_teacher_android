@@ -382,7 +382,6 @@
             android:name="JPUSH_APPKEY"
             android:value="65ebc0b00c2635f68ec2ec52" />
         <!-- </>值来自开发者平台取得的AppKey -->
-        <activity android:name="cn.xiaocool.wxtteacher.main.SuggestListActivity" />
         <activity android:name="com.xys.libzxing.zxing.activity.CaptureActivity" />
         <activity
             android:name="cn.finalteam.galleryfinal.PhotoSelectActivity"

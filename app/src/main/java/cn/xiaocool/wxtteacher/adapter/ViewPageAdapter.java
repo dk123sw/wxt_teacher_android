@@ -47,9 +47,12 @@ public class ViewPageAdapter extends PagerAdapter {
             Activity activity = (Activity)context;
             String type =activity.getIntent().getStringExtra("type");
             String imagesUrl = NetBaseConstant.NET_CIRCLEPIC_HOST+images.get(position);
-            if(type.equals("6")){
-                imagesUrl = "http://wxt.xiaocool.net/data/upload/" + images.get(position);
+            if (type!=null){
+                if(type.equals("9")){
+                    imagesUrl = "http://wxt.xiaocool.net/data/upload/" + images.get(position);
+                }
             }
+
 
             Picasso.with(context).load(imagesUrl).config(Bitmap.Config.RGB_565).into(image, new Callback() {
                 @Override

@@ -1,10 +1,14 @@
 package cn.xiaocool.wxtteacher.main;
 
+import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v4.widget.SwipeRefreshLayout;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.EditText;
@@ -23,7 +27,9 @@ import cn.xiaocool.wxtteacher.adapter.CommunicationAdapter;
 import cn.xiaocool.wxtteacher.bean.CommunicateModel;
 import cn.xiaocool.wxtteacher.bean.UserInfo;
 import cn.xiaocool.wxtteacher.net.NewsRequest;
+import cn.xiaocool.wxtteacher.net.request.constant.NetUtil;
 import cn.xiaocool.wxtteacher.utils.JsonParser;
+import cn.xiaocool.wxtteacher.utils.LogUtils;
 import cn.xiaocool.wxtteacher.utils.ToastUtils;
 import cn.xiaocool.wxtteacher.utils.VolleyUtil;
 
@@ -38,8 +44,9 @@ public class TeacherCommunicationActivity extends BaseActivity {
     private Context context;
     private UserInfo user;
     private List<CommunicateModel> communicateModelList;
-    private String receive_uid;
+    private String receive_uid,usertype;
     private int tag = 0;
+    private Receiver receiver;
     private Handler handler = new Handler(){
         @Override
         public void handleMessage(Message msg) {
@@ -65,8 +72,10 @@ public class TeacherCommunicationActivity extends BaseActivity {
         user = new UserInfo(context);
         communicateModelList = new ArrayList<>();
         initView();
-
-
+        receiver = new Receiver();
+        IntentFilter filter = new IntentFilter("com.USER_ACTION");
+        registerReceiver(receiver, filter);
+        usertype = getIntent().getStringExtra("usertype");
     }
 
     @Override
@@ -86,6 +95,10 @@ public class TeacherCommunicationActivity extends BaseActivity {
                 if (JsonParser.JSONparser(context, result)) {
                     communicateModelList.clear();
                     communicateModelList.addAll(JsonParser.getBeanFromJsonCommunicateModel(result));
+                    if (communicateModelList.size()>0){
+                        usertype = communicateModelList.get(0).getReceive_type();
+                    }
+
                     setAdapter();
                 }
             }
@@ -153,11 +166,20 @@ public class TeacherCommunicationActivity extends BaseActivity {
         });
         top_title = (TextView) findViewById(R.id.top_title);
     }
-
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        LogUtils.e("mainActivity", "onDestroy");
+        unregisterReceiver(receiver);
+    }
     /**
      * 发送聊天
      */
     private void sendChatContent() {
+        if (!NetUtil.isConnnected(context)){
+            ToastUtils.ToastShort(context,"暂无网络 ！");
+            return;
+        }
         if (ed_comment.getText().length()==0){
             ToastUtils.ToastShort(context,"聊天内容不能为空！");
             return;
@@ -166,6 +188,8 @@ public class TeacherCommunicationActivity extends BaseActivity {
         String url = "http://wxt.xiaocool.net/index.php?g=apps&m=message&a=SendChatData";
 
         List<NameValuePair> params = new ArrayList<NameValuePair>();
+        params.add(new BasicNameValuePair("send_type","1"));
+        params.add(new BasicNameValuePair("usertype",usertype));
         params.add(new BasicNameValuePair("send_uid", user.getUserId()));
         params.add(new BasicNameValuePair("receive_uid",receive_uid));
         params.add(new BasicNameValuePair("content", ed_comment.getText().toString()));
@@ -188,5 +212,17 @@ public class TeacherCommunicationActivity extends BaseActivity {
 //        },params);
     }
 
+    /**
+     * 接受推送通知并通知页面添加小红点
+     */
+    public class Receiver extends BroadcastReceiver {
 
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            Log.i("Recevier1", "接收到:");
+            initData();
+
+        }
+
+    }
 }
