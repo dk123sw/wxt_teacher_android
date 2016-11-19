@@ -96,7 +96,7 @@ public class BacklogNextDetailActivity extends Activity implements View.OnClickL
         if (count>0){
             lastid = backlogData.getReciverlist().get(count-1).getId();
         }else {
-            lastid = backlogData.getUserid();
+            lastid = backlogData.getId();
         }
         switch (v.getId()){
             case R.id.up_jiantou:

@@ -71,7 +71,7 @@ public class StuAttendanceInfoAdapter extends BaseAdapter {
 
         holder.tv_name.setText(studentDatas.get(position).getName());
 
-        holder.tv_content.setText("签到:"+(days-Integer.valueOf(studentDatas.get(position).getArrive_count()))+"天"+"  缺勤:"+studentDatas.get(position).getArrive_count()+"天");
+        holder.tv_content.setText("签到:"+studentDatas.get(position).getArrive_count() +"天"+"  缺勤:"+(days-Integer.valueOf(studentDatas.get(position).getArrive_count()))+"天");
 
         imageLoader.displayImage(NetBaseConstant.NET_CIRCLEPIC_HOST+studentDatas.get(position).getPhoto(),holder.item_head,displayImage);
         return convertView;

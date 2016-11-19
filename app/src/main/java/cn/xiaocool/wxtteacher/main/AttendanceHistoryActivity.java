@@ -239,7 +239,6 @@ public class AttendanceHistoryActivity extends Activity implements View.OnClickL
 
             @Override
             public void onErrorResponse(VolleyError arg0) {
-                ToastUtils.ToastShort(context, arg0.toString());
                 hud.dismiss();
                 Log.d("onErrorResponse", arg0.toString());
             }

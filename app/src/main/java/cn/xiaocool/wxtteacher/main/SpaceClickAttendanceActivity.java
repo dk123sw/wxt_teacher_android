@@ -196,7 +196,9 @@ public class SpaceClickAttendanceActivity extends Activity implements View.OnCli
                     break;
                 }
             }
-
+            if (tYear!=year||tMonth!=month){
+                flag = 1;
+            }
             if (flag == 0) {
                 new Thread(new Runnable() {
                     @Override

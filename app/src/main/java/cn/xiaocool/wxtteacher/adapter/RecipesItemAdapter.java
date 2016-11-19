@@ -20,7 +20,7 @@ import cn.xiaocool.wxtteacher.main.CircleImagesActivity;
 /**
  * Created by THB on 2016/6/20.
  */
-public class RecipesItemAdapter extends BaseAdapter {
+public class  RecipesItemAdapter extends BaseAdapter {
     private Context context;
     private LayoutInflater layoutInflater;
     private ArrayList<RecipeInfo.RecipeData> recipeDatas;

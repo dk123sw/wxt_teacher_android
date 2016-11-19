@@ -56,21 +56,21 @@ public class TeacherAttendanceAdapter extends BaseAdapter {
         Date date = new Date();
 
         SimpleDateFormat format = new SimpleDateFormat("HH:mm:ss");
-        if (classListDataList.get(position).getArrivetime()!="null"){
+        if (!classListDataList.get(position).getArrivetime().equals("null")&&!classListDataList.get(position).getArrivetime().equals("0")){
             date.setTime(Long.parseLong(classListDataList.get(position).getArrivetime())*1000);
             holder.arrvie_time_text.setText("签到: " + format.format(date));
         }else {
             holder.arrvie_time_text.setText("签到: 无" );
         }
 
-        if (classListDataList.get(position).getLeavetime()!="null"){
+        if (!classListDataList.get(position).getLeavetime().equals("null")&&!classListDataList.get(position).getLeavetime().equals("0")){
             date.setTime(Long.parseLong(classListDataList.get(position).getLeavetime())*1000);
             holder.leave_time_text.setText("签退: "+format.format(date));
         }else {
             holder.leave_time_text.setText("签退: 无");
         }
 
-        if (classListDataList.get(position).getCreate_time()!="null"){
+        if (classListDataList.get(position).getCreate_time()!="null"&&classListDataList.get(position).getCreate_time()!="0"){
             date.setTime(Long.parseLong(classListDataList.get(position).getCreate_time())*1000);
             SimpleDateFormat formatd = new SimpleDateFormat("yyyy-MM-dd");
             holder.date_text.setText(formatd.format(date));
