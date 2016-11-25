@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.Context;
 import android.graphics.Bitmap;
 
+import com.lechange.opensdk.api.LCOpenSDK_Api;
 import com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiscCache;
 import com.nostra13.universalimageloader.cache.memory.impl.WeakMemoryCache;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
@@ -14,6 +15,8 @@ import com.nostra13.universalimageloader.core.download.BaseImageDownloader;
 import com.nostra13.universalimageloader.utils.StorageUtils;
 import com.tencent.mm.sdk.openapi.IWXAPI;
 import com.tencent.mm.sdk.openapi.WXAPIFactory;
+import com.videogo.openapi.EZOpenSDK;
+import com.videogo.openapi.EzvizAPI;
 
 import java.io.File;
 
@@ -31,7 +34,16 @@ public class WxtApplication extends Application {
     public static int UID;
     public static final String APP_ID = "wx9aa88ce0b796d68f";
     public IWXAPI api; //第三方app与微信通信的openapi接口
-
+    //萤石云
+    public static String EZ_APP_KEY = "e6a9eb61e34d4b64a6a1d92867914d9c";
+    public static String API_URL = "https://open.ys7.com";
+    public static String WEB_URL = "https://auth.ys7.com";
+    public static String EZ_ACCESS_TOKEN ;
+    //乐橙
+    public static String lechange_host = "openapi.lechange.cn:443";
+    public static String LECHANGE_APP_KEY = "lc6419aa19c5f74ddb";
+    public static String LECHANGE_APP_SERCRET = "3451cd2dbdc54d8f8f71bc85a5bab1";
+    public static String LECHANGE_ACCESS_TOKEN ;
 
     //环信注册
 
@@ -55,6 +67,36 @@ public class WxtApplication extends Application {
 
         initImageLoader(this);
 
+        //初始化萤石云
+        setEzOpen();
+        //初始化乐橙
+        setLeChange();
+
+    }
+
+    private void setEzOpen() {
+
+        /**
+         * sdk日志开关，正式发布需要去掉
+         */
+        EZOpenSDK.showSDKLog(true);
+
+        /**
+         * 设置是否支持P2P取流,详见api
+         */
+        EZOpenSDK.enableP2P(true);
+
+        /**
+         * APP_KEY请替换成自己申请的
+         */
+        EZOpenSDK.initLib(this, EZ_APP_KEY, "");
+
+        EzvizAPI.getInstance().setServerUrl(API_URL, WEB_URL);
+
+    }
+
+    private void setLeChange(){
+        LCOpenSDK_Api.setHost(lechange_host);
     }
 
     /**

@@ -1,1402 +1,766 @@
 [
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shanchu.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bt_shanchu.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_bottom.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_bottom.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_right_unchecked.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_shape_right_unchecked.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ll3.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ll3.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\article_img.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\article_img.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_small.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\user_small.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/welcome_white.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/welcome_white.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_wihte_frame.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\shape_wihte_frame.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/y3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/y3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_common.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\y3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tag_bg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tag_bg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/title_blue.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/title_blue.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_praise.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_praise.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/back_whrit.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/back_whrit.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xsearch_loading.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\xsearch_loading.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_share_blue.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_share_blue.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_content.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\no_content.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_img.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_img.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aad.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\aad.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bg_edittext_normal.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bg_edittext_normal.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shanchu_unfocused.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_shanchu_unfocused.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tc_review_orcolor.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tc_review_orcolor.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_jiantou.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\right_jiantou.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiaozan.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ic_xiaozan.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/up_juxing.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/up_juxing.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/xsearch_loading.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/xsearch_loading.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f1.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f1.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_tecolor.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tc_review_tecolor.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\password.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_whrit.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\back_whrit.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_specific_right.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selector_specific_right.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ezopen_vertical_preview_sound_off_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ezopen_vertical_preview_sound_off_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tc_review_tecolor.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tc_review_tecolor.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_shape_left_checked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_shape_left_checked.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_address.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selected_address.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_praise.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_praise.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\next.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_password.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\small_password.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ll1.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ll1.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_white.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\welcome_white.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bg_edittext.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bg_edittext.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y2.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\y2.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xsearch_msg_pull_arrow_down.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\xsearch_msg_pull_arrow_down.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_soundoff_btn_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_full_soundoff_btn_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/y1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/y1.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_normal.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_back_normal.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog4.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog4.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_whrit.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\back_whrit.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_back.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_back.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selector.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selector.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog1.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog1.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/user_small.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/user_small.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\shape_dialog.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/small_password.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/small_password.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\rounded_border.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_content.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\no_content.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\rounded_border.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f3.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f3.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_contacts_head.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\news_contacts_head.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_name.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\user_name.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bg_gf_crop_texture.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/res/drawable/bg_gf_crop_texture.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_blue.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\title_blue.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address_selector.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\address_selector.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhongjianhengxian.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\zhongjianhengxian.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\login_button.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preview_enlarge_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\preview_enlarge_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bt_quxiao.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bt_quxiao.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f2.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f2.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f3.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f3.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/function_fangdiudingwei.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/function_fangdiudingwei.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_contacts_head.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\news_contacts_head.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog2.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog2.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leave_pic.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\leave_pic.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/right_jiantou.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/right_jiantou.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog8.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog8.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/we_1.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/we_1.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_play_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_full_play_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fenxiang.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ic_fenxiang.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_focused.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\contact_edit_edittext_focused.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/katong.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/katong.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_back_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\message_back_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_praise_blue.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_praise_blue.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_shape.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_send_shape.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xsearch_loading.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\xsearch_loading.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\we_1.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\we_1.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/viewpager_focused.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/viewpager_focused.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_huifu.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ic_huifu.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/function_small_watch.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/function_small_watch.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ka.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_ka.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l4.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\l4.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.9.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\transparent.9.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\line.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\y1.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_right_checked.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_shape_right_checked.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/slt_as_ios7_cancel_bt.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/res/drawable/slt_as_ios7_cancel_bt.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boder_white.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\button_boder_white.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/slt_as_ios7_other_bt_bottom.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/res/drawable/slt_as_ios7_other_bt_bottom.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_number.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\phone_number.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/contact_edit_edittext_normal.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/contact_edit_edittext_normal.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_previously_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_full_previously_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_quxiao_focused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_quxiao_focused.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/no_content.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/no_content.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f1.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f1.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/slt_as_ios7_other_bt_top.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/res/drawable/slt_as_ios7_other_bt_top.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_user_info_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\item_user_info_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_shape_right_unchecked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_shape_right_unchecked.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_button_bolder.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\log_button_bolder.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_focused.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\contact_edit_edittext_focused.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_quxiao_unfocused.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_quxiao_unfocused.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_single.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_single.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ka.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_ka.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll1.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ll1.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/xsearch_msg_pull_arrow_down.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/xsearch_msg_pull_arrow_down.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_middle.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_middle.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/zhongjianhengxian.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/zhongjianhengxian.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_left_unchecked.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_shape_left_unchecked.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_quxiao.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bt_quxiao.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bg_checkbox_menus.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bg_checkbox_menus.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll4.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ll4.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_praise.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_praise.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\katong.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\katong.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/button_boder_green.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/button_boder_green.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fenxiang.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ic_fenxiang.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\teacher_erweima.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\teacher_erweima.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/next.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/next.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.9.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\transparent.9.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_pressed.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_back_pressed.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_camera.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\function_camera.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/chatto_voice_playing_f3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/chatto_voice_playing_f3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_wx.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ic_share_wx.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_shape.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_send_shape.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_point_normal.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\welcome_point_normal.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ez_leave_message_play_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ez_leave_message_play_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_focused.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\viewpager_focused.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\address_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\drawable\\indicator_corner_bg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\address.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/button_boder_green_login.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/button_boder_green_login.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_focused.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\viewpager_focused.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\video.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_fangdiudingwei.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\function_fangdiudingwei.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\l2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_icon_normal.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\search_bar_icon_normal.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y3.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\y3.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_shipinjietu.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\function_shipinjietu.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_cancel_bt.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_cancel_bt.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_hori_line.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\function_hori_line.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_yecolor.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tc_review_yecolor.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_stop_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_stop_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_square.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\default_square.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l3.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\l3.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_pic3.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\web_pic3.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\video.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_white.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\welcome_white.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog5.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog5.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog8.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog8.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xsearch_msg_pull_arrow_down.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\xsearch_msg_pull_arrow_down.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/l1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/l1.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l2.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\l2.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tc_review_yecolor.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tc_review_yecolor.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_progress_drawable.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\my_progress_drawable.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tag_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tag_bg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_specific_left.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selector_specific_left.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/action_btn.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/action_btn.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ezopen_vertical_preview_sound_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ezopen_vertical_preview_sound_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\l1.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_pic1.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\web_pic1.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_name.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\user_name.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_bg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\textview_bg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\login_button.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/l2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/l2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bg_login.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\katong.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\katong.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_btn.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\action_btn.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_small_watch.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\function_small_watch.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_point_normal.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\welcome_point_normal.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_specific_left.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selector_specific_left.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_rotate.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\default_ptr_rotate.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_edit_layout_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\log_edit_layout_bg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shanchu_focused.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_shanchu_focused.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/chatfrom_voice_playing_f1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/chatfrom_voice_playing_f1.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_online_service.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\my_online_service.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_btn.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\action_btn.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seabar_input.9.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\seabar_input.9.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_juxing.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\up_juxing.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_bottom.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_bottom.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_praise_red.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_praise_red.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_back.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_shape_left_unchecked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_shape_left_unchecked.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/seabar_input.9.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/seabar_input.9.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l1.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\l1.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_left_checked.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_shape_left_checked.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/viewpager_normal.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/viewpager_normal.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhongjianhengxian.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\zhongjianhengxian.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_pressed.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_back_pressed.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_checkbox_menus.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bg_checkbox_menus.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\l3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l4.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\l4.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll1.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ll1.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_small_watch.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\function_small_watch.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/address.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/address.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_function.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selected_function.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\shape_dialog.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_top.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_top.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_praise_red.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_praise_red.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog4.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog4.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ic_huifu.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ic_huifu.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_praise_red.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_praise_red.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_function.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selected_function.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_redbg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tc_review_redbg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_middle.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_middle.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_praise_blue.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_praise_blue.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog4.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog4.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_fullscreen_button_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\horizontal_fullscreen_button_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boder_green_login.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\button_boder_green_login.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/sidebar_background.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/sidebar_background.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\textview_border.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_my.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selected_my.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_orbg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tc_review_orbg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aad.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\aad.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tc_review_yebg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tc_review_yebg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog7.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog7.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_checkbox_menus.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bg_checkbox_menus.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ic_share_wx.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ic_share_wx.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cuiyixia.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ic_cuiyixia.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/textview_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/textview_bg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_normal.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\contact_edit_edittext_normal.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/welcome_point.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/welcome_point.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_pic2.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\web_pic2.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\background.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll2.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ll2.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_fangdiudingwei.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\function_fangdiudingwei.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boder_green.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\button_boder_green.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/shape_dialog.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/shape_dialog.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_text.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_common_text.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/textview_border.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/textview_border.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_yecolor.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tc_review_yecolor.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_avatar.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\default_avatar.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_edit_layout_bg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\log_edit_layout_bg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gf_crop_texture.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable\\bg_gf_crop_texture.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_share_blue.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_share_blue.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boder_green_login.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\button_boder_green_login.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/search_bar_icon_normal.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/search_bar_icon_normal.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll3.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\ll3.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/slt_as_ios7_other_bt_middle.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/res/drawable/slt_as_ios7_other_bt_middle.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\drawable\\indicator_corner_bg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/background.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/background.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_stop_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_full_stop_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_juxing.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\up_juxing.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_jiantou.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\left_jiantou.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_small.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\user_small.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\y2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_pic3.jpg",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\web_pic3.jpg"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shanchu_unfocused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_shanchu_unfocused.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_delete.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_delete.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y1.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\y1.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_play_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_play_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/function_shipinjietu.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/function_shipinjietu.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_square.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\default_square.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ll2.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ll2.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_news.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selected_news.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_normal.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\viewpager_normal.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titlebar_lightgray.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\titlebar_lightgray.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_full_soundon_btn_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_full_soundon_btn_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_password.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\small_password.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_orbg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tc_review_orbg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/rounded_border.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/rounded_border.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_tecolor.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tc_review_tecolor.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\we_1.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\we_1.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_quxiao_focused.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_quxiao_focused.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_jiantou.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\left_jiantou.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yanzhengma.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\yanzhengma.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_point_select.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\welcome_point_select.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_shipinjietu.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\function_shipinjietu.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_huifu.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ic_huifu.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog6.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog6.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tag_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tag_bg.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_praise_blue.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_praise_blue.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_common.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_common.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_yebg.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tc_review_yebg.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/left_jiantou.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/left_jiantou.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_cancel_bt.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_cancel_bt.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_address.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selected_address.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_orcolor.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\tc_review_orcolor.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f3.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_button_bolder.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\log_button_bolder.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titlebar_lightgray.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\titlebar_lightgray.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_single.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_single.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_avatar.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\default_avatar.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/y2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/y2.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_back_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\common_title_back_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_share_blue.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_share_blue.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog3.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\progressdialog3.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/address_selector.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/address_selector.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_trends.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\btn_selected_trends.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_point_select.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\welcome_point_select.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comment_bule.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\icon_comment_bule.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/leave_pic.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/leave_pic.jpg"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_previously_selector.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\play_previously_selector.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_number.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\phone_number.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f2.png",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f2.png"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selected_address.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selected_address.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_point.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\welcome_point.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_quxiao_unfocused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_quxiao_unfocused.png"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_quxiao.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\drawable\\bt_quxiao.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/contact_edit_edittext_focused.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/contact_edit_edittext_focused.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_my.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selected_my.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/log_button_bolder.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/log_button_bolder.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/chatto_voice_playing_f2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/chatto_voice_playing_f2.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ic_xiaozan.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ic_xiaozan.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shanchu.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bt_shanchu.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f2.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ll4.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ll4.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog1.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/web_pic3.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/web_pic3.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_normal.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_back_normal.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/slt_as_ios7_other_bt_single.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/res/drawable/slt_as_ios7_other_bt_single.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\textview_border.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_common.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/phone_number.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/phone_number.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_right_checked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_shape_right_checked.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_back_normal.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_back_normal.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selected_function.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selected_function.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog1.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_rotate.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\default_ptr_rotate.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_text.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_common_text.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/web_pic1.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/web_pic1.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_img.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_img.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog5.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog5.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_wx.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ic_share_wx.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\textview_bg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_icon_normal.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\search_bar_icon_normal.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_camera.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\function_camera.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_redbg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tc_review_redbg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_common_text.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_common_text.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_shape_right_checked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_shape_right_checked.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_online_service.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\my_online_service.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/article_img.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/article_img.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selected_my.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selected_my.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tc_review_redbg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tc_review_redbg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiaozan.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ic_xiaozan.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/teacher_erweima.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/teacher_erweima.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/function_camera.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/function_camera.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/l3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/l3.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog8.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog8.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\teacher_erweima.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\teacher_erweima.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selector_specific_right.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selector_specific_right.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_back_pressed.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_back_pressed.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_send_shape.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_send_shape.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_ka.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_ka.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_trends.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selected_trends.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog5.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog5.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/welcome_point_normal.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/welcome_point_normal.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/password.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/password.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_hori_line.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\function_hori_line.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_normal.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\contact_edit_edittext_normal.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/line.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/line.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/function_hori_line.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/function_hori_line.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bg_edittext_focused.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bg_edittext_focused.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll3.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ll3.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\line.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_left_checked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_shape_left_checked.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yanzhengma.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\yanzhengma.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boder_white.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\button_boder_white.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selected_news.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selected_news.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/default_square.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/default_square.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/log_edit_layout_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/log_edit_layout_bg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shanchu_focused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_shanchu_focused.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog6.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog6.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll2.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ll2.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_delete.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_delete.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_delete.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_delete.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_pic2.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\web_pic2.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leave_pic.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\leave_pic.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_shanchu_focused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_shanchu_focused.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/button_boder_white.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/button_boder_white.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_back.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ll4.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ll4.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/chatfrom_voice_playing_f2.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/chatfrom_voice_playing_f2.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\bg_login.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_boder_green.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\button_boder_green.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/indicator_corner_bg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/drawable/indicator_corner_bg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selected_trends.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selected_trends.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ic_fenxiang.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ic_fenxiang.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\article_img.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\article_img.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_quxiao_focused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_quxiao_focused.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/progressdialog7.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/progressdialog7.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\address.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/titlebar_lightgray.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/titlebar_lightgray.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_shanchu_unfocused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_shanchu_unfocused.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seabar_input.9.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\seabar_input.9.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/transparent.9.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/transparent.9.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/my_online_service.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/my_online_service.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog7.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog7.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\next.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/login_button.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/login_button.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/shape_wihte_frame.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/shape_wihte_frame.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/aad.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/aad.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_left_unchecked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_shape_left_unchecked.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/item_user_info_selector.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/item_user_info_selector.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_comment_bule.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_comment_bule.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_point.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\welcome_point.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_right_unchecked.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_shape_right_unchecked.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_quxiao_unfocused.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_quxiao_unfocused.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/l4.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/l4.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_wihte_frame.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\shape_wihte_frame.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/chatto_voice_playing_f1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/chatto_voice_playing_f1.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/icon_img.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/icon_img.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_jiantou.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\right_jiantou.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/welcome_point_select.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/welcome_point_select.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bg_login.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bg_login.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_top.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.baoyz.actionsheet\\library\\1.1.4\\res\\drawable\\slt_as_ios7_other_bt_top.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_yebg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tc_review_yebg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressdialog6.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\progressdialog6.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cuiyixia.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\ic_cuiyixia.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/default_ptr_rotate.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/default_ptr_rotate.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/ic_cuiyixia.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/ic_cuiyixia.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/chatfrom_voice_playing_f3.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/chatfrom_voice_playing_f3.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector_specific_right.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\btn_selector_specific_right.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f1.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/web_pic2.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/web_pic2.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\password.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\viewpager_normal.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\viewpager_normal.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gf_crop_texture.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.6\\res\\drawable\\bg_gf_crop_texture.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_comment_bule.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\icon_comment_bule.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_user_info_selector.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\item_user_info_selector.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/user_name.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/user_name.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\web_pic1.jpg",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\web_pic1.jpg"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_blue.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\title_blue.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selector_specific_left.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selector_specific_left.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/btn_selected_news.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/btn_selected_news.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tc_review_orcolor.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\tc_review_orcolor.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f1.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f1.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/news_contacts_head.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/news_contacts_head.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/tc_review_orbg.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/tc_review_orbg.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/video.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/video.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/default_avatar.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/default_avatar.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/yanzhengma.png",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/yanzhengma.png"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/drawable/bt_shanchu.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/drawable/bt_shanchu.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\wxt_teacher_android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     }
 ]

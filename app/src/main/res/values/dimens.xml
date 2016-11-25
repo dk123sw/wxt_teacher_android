@@ -93,4 +93,24 @@
     <!--一张图片的高度-->
     <dimen name="one_pic_height">300dp</dimen>
 
+    <!-- realplay text size -->
+    <dimen name="realplay_text_size">12dp</dimen>
+    <dimen name="realplay_tip_text_size">16dp</dimen>
+    <dimen name="realplay_channel_text_size">9dp</dimen>
+    <dimen name="realplay_button_text_size">15dp</dimen>
+    <dimen name="realplay_ratio_text_size">24dp</dimen>
+    <dimen name="leavemessage_text_size">12dp</dimen>
+    <dimen name="remoteplayback_text_size">12dp</dimen>
+    <dimen name="remoteplayback_tip_text_size">16dp</dimen>
+    <dimen name="remoteplayback_channel_text_size">9dp</dimen>
+    <dimen name="remoteplayback_button_text_size">15dp</dimen>
+    <dimen name="remoteplayback_ratio_text_size">24dp</dimen>
+
+    <dimen name="loading_text_size">15dp</dimen>
+    <dimen name="common_divider_height">0.5dp</dimen>
+    <dimen name="text_size_mini">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_mid">15sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+
 </resources>

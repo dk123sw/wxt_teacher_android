@@ -1,855 +1,889 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:2:1-386:12
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:2:1-400:12
 	package
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:5:5-7:41
-MERGED from [wxt_teacher_android:libzxing:unspecified] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/wxt_teacher_android/libzxing/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:multidex:1.0.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:design:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.7heaven.widgets:segmentcontrol:1.14] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.7heaven.widgets/segmentcontrol/1.14/AndroidManifest.xml:7:5-9:41
-MERGED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:7:5-9:41
-MERGED from [pub.devrel:easypermissions:0.1.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.0/AndroidManifest.xml:7:5-9:41
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.baoyz.actionsheet:library:1.1.4] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.kaopiz:kprogresshud:1.0.5] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.kaopiz/kprogresshud/1.0.5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.zhy:okhttputils:2.6.2] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.lguipeng.bubbleview:library:1.0.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.lguipeng.bubbleview/library/1.0.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [wxt_teacher_android:libzxing:unspecified] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\wxt_teacher_android\libzxing\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.slider:library:1.1.5] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.7heaven.widgets:segmentcontrol:1.14] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.7heaven.widgets\segmentcontrol\1.14\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.1.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.baoyz.actionsheet:library:1.1.4] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.baoyz.actionsheet\library\1.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kaopiz:kprogresshud:1.0.5] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.kaopiz\kprogresshud\1.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lguipeng.bubbleview:library:1.0.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.lguipeng.bubbleview\library\1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:7:9-38
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:6:9-34
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:6:9-34
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:9:5-67
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/AndroidManifest.xml:11:5-67
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:9:22-64
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:14:5-65
-MERGED from [wxt_teacher_android:libzxing:unspecified] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/wxt_teacher_android/libzxing/unspecified/AndroidManifest.xml:11:5-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:14:5-65
+MERGED from [wxt_teacher_android:libzxing:unspecified] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\wxt_teacher_android\libzxing\unspecified\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:14:22-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:14:22-62
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:15:5-66
-MERGED from [wxt_teacher_android:libzxing:unspecified] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/wxt_teacher_android/libzxing/unspecified/AndroidManifest.xml:12:5-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:15:5-66
+MERGED from [wxt_teacher_android:libzxing:unspecified] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\wxt_teacher_android\libzxing\unspecified\AndroidManifest.xml:12:5-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:15:22-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:15:22-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:16:5-80
-MERGED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:16:5-80
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:16:5-80
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:16:5-80
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:16:22-77
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:16:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:17:5-81
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/AndroidManifest.xml:12:5-81
-MERGED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:14:5-81
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:14:5-81
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:17:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\AndroidManifest.xml:12:5-81
+MERGED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:14:5-81
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:17:22-78
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:17:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:18:5-84
-MERGED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:12:5-84
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:12:5-84
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:18:5-84
+MERGED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:12:5-84
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:12:5-84
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:18:22-81
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:18:22-81
 uses-permission#android.hardware.sensor.accelerometer
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:20:5-77
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:20:5-77
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:20:22-74
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:20:22-74
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:23:5-81
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:23:5-81
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:23:22-78
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:23:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:24:5-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:24:22-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:24:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:30:5-76
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:20:5-76
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:30:5-76
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:30:22-73
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:30:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:32:5-79
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:24:5-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:32:5-79
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:32:22-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:32:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:34:5-76
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:34:5-76
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:34:22-73
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:34:22-73
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:36:5-75
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:18:5-75
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:36:5-75
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:18:5-75
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:36:22-72
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:36:22-72
 uses-permission#android.permission.READ_LOGS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:44:5-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:44:5-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:44:22-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:44:22-65
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:49:5-81
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:49:5-81
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:49:22-78
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:49:22-78
 uses-permission#android.permission.RESTART_PACKAGES
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:50:5-75
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:50:5-75
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:50:22-72
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:50:22-72
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:51:5-75
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:51:5-75
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:51:22-72
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:51:22-72
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:52:5-73
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:52:5-73
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:52:22-70
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:52:22-70
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:53:5-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:53:5-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:53:22-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:53:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:55:5-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:55:5-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:55:22-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:55:22-65
 uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:56:5-84
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:56:5-84
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:56:22-81
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:56:22-81
 uses-permission#android.permission.GET_TASKS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:57:5-68
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:22:5-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:57:5-68
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:22:5-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:57:22-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:57:22-65
 uses-permission#android.permission.CALL_PHONE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:60:5-69
-MERGED from [cn.finalteam:toolsfinal:1.1.1] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.1/AndroidManifest.xml:26:5-69
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:60:5-69
+MERGED from [cn.finalteam:toolsfinal:1.1.1] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.1\AndroidManifest.xml:26:5-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:60:22-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:60:22-66
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:79:5-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:79:5-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:79:22-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:79:22-65
 uses-permission#android.permission.BATTERY_STATS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:80:5-72
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:80:5-72
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:80:22-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:80:22-69
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:83:5-85
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:83:5-85
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:83:22-82
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:83:22-82
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:92:5-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:92:5-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:92:22-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:92:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:103:5-80
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:103:5-80
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:103:22-77
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:103:22-77
 uses-feature#android.hardware.camera
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:109:5-60
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:109:5-60
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:109:19-57
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:109:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:110:5-70
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:110:5-70
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:110:19-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:110:19-67
 permission#${applicationId}.permission.JPUSH_MESSAGE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:119:5-121:47
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:119:5-121:47
 	android:protectionLevel
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:121:9-44
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:121:9-44
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:120:9-65
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:120:9-65
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 uses-permission#${applicationId}.permission.JPUSH_MESSAGE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:124:5-81
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:124:5-81
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:124:22-78
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:124:22-78
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:141:5-89
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:141:5-89
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:141:22-86
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:141:22-86
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:142:5-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:142:5-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:142:22-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:142:22-76
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:145:5-75
+	android:name
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:145:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:146:5-78
+	android:name
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:146:22-75
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:147:5-79
+	android:name
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:147:22-76
 application
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:146:5-384:19
-MERGED from [wxt_teacher_android:libzxing:unspecified] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/wxt_teacher_android/libzxing/unspecified/AndroidManifest.xml:14:5-18:19
-MERGED from [com.android.support:design:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.7heaven.widgets:segmentcontrol:1.14] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.7heaven.widgets/segmentcontrol/1.14/AndroidManifest.xml:11:5-14:19
-MERGED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:18:5-30:19
-MERGED from [pub.devrel:easypermissions:0.1.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.0/AndroidManifest.xml:11:5-14:19
-MERGED from [com.kaopiz:kprogresshud:1.0.5] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.kaopiz/kprogresshud/1.0.5/AndroidManifest.xml:11:5-13:38
-MERGED from [com.lguipeng.bubbleview:library:1.0.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.lguipeng.bubbleview/library/1.0.0/AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:150:5-398:19
+MERGED from [wxt_teacher_android:libzxing:unspecified] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\wxt_teacher_android\libzxing\unspecified\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:design:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.7heaven.widgets:segmentcontrol:1.14] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.7heaven.widgets\segmentcontrol\1.14\AndroidManifest.xml:11:5-14:19
+MERGED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:18:5-30:19
+MERGED from [pub.devrel:easypermissions:0.1.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.kaopiz:kprogresshud:1.0.5] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.kaopiz\kprogresshud\1.0.5\AndroidManifest.xml:11:5-13:38
+MERGED from [com.lguipeng.bubbleview:library:1.0.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.lguipeng.bubbleview\library\1.0.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:150:9-41
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:154:9-41
 	android:supportsRtl
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:151:9-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:155:9-35
 	android:allowBackup
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:148:9-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:152:9-35
 	android:icon
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:149:9-46
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:153:9-46
 	android:theme
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:152:9-40
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:156:9-40
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:147:9-44
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:151:9-44
 activity#cn.xiaocool.wxtteacher.main.FullActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:153:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:157:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:153:19-52
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:157:19-52
 activity#cn.xiaocool.wxtteacher.main.SplashActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:154:9-160:20
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:158:9-164:20
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:154:19-54
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:158:19-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:155:13-159:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:159:13-163:29
 action#android.intent.action.MAIN
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:156:17-69
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:160:17-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:156:25-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:160:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:158:17-77
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:162:17-77
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:158:27-74
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:162:27-74
 activity#cn.xiaocool.wxtteacher.main.LoginActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:161:9-56
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:165:9-56
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:161:19-53
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:165:19-53
 activity#cn.xiaocool.wxtteacher.main.ForgetPasswordActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:162:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:166:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:162:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:166:19-62
 activity#cn.xiaocool.wxtteacher.main.SetPasswordActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:163:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:167:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:163:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:167:19-59
 activity#cn.xiaocool.wxtteacher.main.RegisterActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:164:9-59
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:168:9-59
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:164:19-56
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:168:19-56
 activity#cn.xiaocool.wxtteacher.main.ResetPasswordActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:165:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:169:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:165:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:169:19-61
 activity#cn.xiaocool.wxtteacher.main.MainActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:166:9-168:56
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:170:9-172:56
 	android:launchMode
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:168:13-44
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:172:13-44
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:167:13-46
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:171:13-46
 activity#cn.xiaocool.wxtteacher.main.AnnouContentActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:169:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:173:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:169:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:173:19-60
 activity#cn.xiaocool.wxtteacher.main.SpaceClickAnnouActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:170:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:174:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:170:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:174:19-63
 activity#cn.xiaocool.wxtteacher.main.CircleImagesActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:171:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:175:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:171:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:175:19-60
 activity#cn.xiaocool.wxtteacher.main.GenerateQrCodeActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:172:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:176:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:172:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:176:19-62
 activity#cn.xiaocool.wxtteacher.main.MeHelpBackActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:173:9-61
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:177:9-61
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:173:19-58
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:177:19-58
 activity#cn.xiaocool.wxtteacher.main.SpaceClickClassActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:174:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:178:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:174:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:178:19-63
 activity#cn.xiaocool.wxtteacher.main.SpaceBabyAlbumActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:175:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:179:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:175:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:179:19-62
 activity#cn.xiaocool.wxtteacher.main.SpaceClickConfimActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:176:9-67
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:180:9-67
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:176:19-64
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:180:19-64
 activity#cn.xiaocool.wxtteacher.main.SpaceClickLeaveActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:177:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:181:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:177:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:181:19-63
 activity#cn.xiaocool.wxtteacher.main.SpaceClickRecipesActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:178:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:182:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:178:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:182:19-65
 activity#cn.xiaocool.wxtteacher.main.SpaceClickClassEventActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:179:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:183:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:179:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:183:19-68
 activity#cn.xiaocool.wxtteacher.main.SpaceClickClassSpecificEventActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:180:9-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:184:9-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:180:19-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:184:19-76
 activity#cn.xiaocool.wxtteacher.main.SpaceClickRecipesItemActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:181:9-72
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:185:9-72
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:181:19-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:185:19-69
 activity#cn.xiaocool.wxtteacher.main.SpeaceSchoolWebActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:182:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:186:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:182:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:186:19-63
 activity#cn.xiaocool.wxtteacher.main.WebClickRearingChildActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:183:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:187:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:183:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:187:19-68
 activity#cn.xiaocool.wxtteacher.main.WebClickRearingChildSpecificActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:184:9-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:188:9-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:184:19-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:188:19-76
 activity#cn.xiaocool.wxtteacher.main.WebClickIntroduceActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:185:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:189:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:185:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:189:19-65
 activity#cn.xiaocool.wxtteacher.main.SpaceClickTeacherRemarkONActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:186:9-188:72
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:190:9-192:72
 	android:windowSoftInputMode
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:188:13-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:192:13-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:187:13-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:191:13-67
 activity#cn.xiaocool.wxtteacher.main.SpaceClickTeacherReviewActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:189:9-74
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:193:9-74
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:189:19-71
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:193:19-71
 activity#cn.xiaocool.wxtteacher.main.SpaceClickAttendanceActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:190:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:194:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:190:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:194:19-68
 activity#cn.xiaocool.wxtteacher.main.SpaceClickCoursewareActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:191:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:195:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:191:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:195:19-68
 activity#cn.xiaocool.wxtteacher.main.WebClickEditActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:192:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:196:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:192:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:196:19-60
 activity#cn.xiaocool.wxtteacher.main.MySendMessageToTeacherActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:193:9-73
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:197:9-73
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:193:19-70
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:197:19-70
 activity#cn.xiaocool.wxtteacher.main.FunctionWeekendPlanActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:194:9-70
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:198:9-70
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:194:19-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:198:19-67
 activity#cn.xiaocool.wxtteacher.main.NewsGroupActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:195:9-60
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:199:9-60
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:195:19-57
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:199:19-57
 activity#cn.xiaocool.wxtteacher.main.AddChildrenActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:196:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:200:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:196:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:200:19-59
 activity#cn.xiaocool.wxtteacher.main.ReceiveParentWarnActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:197:9-199:55
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:201:9-203:55
 	android:windowSoftInputMode
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:199:13-52
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:203:13-52
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:198:13-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:202:13-59
 activity#cn.xiaocool.wxtteacher.main.AnnouncementActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:200:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:204:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:200:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:204:19-60
 activity#cn.xiaocool.wxtteacher.main.SpaceClickHomeworkActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:201:9-69
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:205:9-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:201:19-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:205:19-66
 activity#cn.xiaocool.wxtteacher.main.ChooseCollectActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:202:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:206:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:202:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:206:19-61
 activity#cn.xiaocool.wxtteacher.main.AddHomeworkActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:203:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:207:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:203:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:207:19-59
 activity#cn.xiaocool.wxtteacher.main.MyClassListActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:204:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:208:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:204:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:208:19-59
 activity#cn.xiaocool.wxtteacher.release.MultiImageSelectorActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:205:9-72
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:209:9-72
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:205:19-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:209:19-69
 activity#cn.xiaocool.wxtteacher.main.AddBacklogActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:206:9-61
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:210:9-61
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:206:19-58
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:210:19-58
 activity#cn.xiaocool.wxtteacher.main.AddBacklogChooseTeacherActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:207:9-74
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:211:9-74
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:207:19-71
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:211:19-71
 activity#cn.xiaocool.wxtteacher.main.BacklogActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:208:9-58
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:212:9-58
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:208:19-55
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:212:19-55
 activity#cn.xiaocool.wxtteacher.main.BabyAlbumAddActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:209:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:213:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:209:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:213:19-60
 activity#cn.xiaocool.wxtteacher.main.MyCollectClassListActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:210:9-69
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:214:9-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:210:19-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:214:19-66
 activity#cn.xiaocool.wxtteacher.main.AnnouncementCommentActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:211:9-70
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:215:9-70
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:211:19-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:215:19-67
 activity#cn.xiaocool.wxtteacher.main.HomeworkCommentActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:212:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:216:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:212:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:216:19-63
 activity#cn.xiaocool.wxtteacher.main.ParentWarnCommentActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:213:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:217:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:213:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:217:19-65
 activity#cn.xiaocool.wxtteacher.main.ChooseParentsActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:214:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:218:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:214:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:218:19-61
 activity#cn.xiaocool.wxtteacher.main.SystemNewsDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:215:9-67
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:219:9-67
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:215:19-64
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:219:19-64
 activity#cn.xiaocool.wxtteacher.main.SystemNewsActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:216:9-61
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:220:9-61
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:216:19-58
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:220:19-58
 activity#cn.xiaocool.wxtteacher.main.AnnouncementDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:217:9-69
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:221:9-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:217:19-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:221:19-66
 activity#cn.xiaocool.wxtteacher.main.BacklogDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:218:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:222:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:218:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:222:19-61
 activity#cn.xiaocool.wxtteacher.main.HomeworkDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:219:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:223:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:219:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:223:19-62
 activity#cn.xiaocool.wxtteacher.main.BacklogNextDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:220:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:224:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:220:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:224:19-65
 activity#cn.xiaocool.wxtteacher.main.AlbumDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:221:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:225:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:221:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:225:19-59
 activity#cn.xiaocool.wxtteacher.main.AddAlbumActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:222:9-59
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:226:9-59
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:222:19-56
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:226:19-56
 activity#cn.xiaocool.wxtteacher.main.RecipeImgDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:223:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:227:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:223:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:227:19-63
 activity#cn.xiaocool.wxtteacher.main.AttendanceHistoryActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:224:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:228:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:224:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:228:19-65
 activity#cn.xiaocool.wxtteacher.main.AttendancePrivilegeActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:225:9-70
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:229:9-70
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:225:19-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:229:19-67
 activity#cn.xiaocool.wxtteacher.main.TeacherSingleReviewActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:226:9-228:72
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:230:9-232:72
 	android:windowSoftInputMode
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:228:13-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:232:13-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:227:13-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:231:13-61
 activity#cn.xiaocool.wxtteacher.main.NewsGroupReciveDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:229:9-72
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:233:9-72
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:229:19-69
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:233:19-69
 activity#cn.xiaocool.wxtteacher.main.WriteAnnouncementActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:231:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:235:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:231:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:235:19-65
 activity#cn.xiaocool.wxtteacher.main.SpaceClassAttendanceActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:232:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:236:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:232:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:236:19-68
 activity#cn.xiaocool.wxtteacher.main.TeacherReviewDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:233:9-70
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:237:9-70
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:233:19-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:237:19-67
 activity#cn.xiaocool.wxtteacher.main.SpaceClickGrowActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:234:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:238:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:234:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:238:19-62
 activity#cn.xiaocool.wxtteacher.main.AddClassEventActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:235:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:239:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:235:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:239:19-61
 activity#cn.xiaocool.wxtteacher.main.ReadAndNoreadActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:236:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:240:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:236:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:240:19-61
 activity#cn.xiaocool.wxtteacher.main.NewsGroupDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:237:9-66
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:241:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:237:19-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:241:19-63
 activity#cn.xiaocool.wxtteacher.main.ClassEventsDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:238:9-68
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:242:9-68
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:238:19-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:242:19-65
 activity#cn.xiaocool.wxtteacher.main.AddConfimActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:239:9-60
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:243:9-60
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:239:19-57
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:243:19-57
 activity#cn.xiaocool.wxtteacher.main.CoursewareDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:240:9-67
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:244:9-67
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:240:19-64
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:244:19-64
 activity#cn.xiaocool.wxtteacher.main.AddCoursewareActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:241:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:245:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:241:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:245:19-61
 activity#cn.xiaocool.wxtteacher.main.TrendsDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:242:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:246:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:242:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:246:19-60
 activity#cn.xiaocool.wxtteacher.main.AddWeekPlanActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:243:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:247:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:243:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:247:19-59
 activity#cn.xiaocool.wxtteacher.main.AddClassCourseActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:244:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:248:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:244:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:248:19-62
 activity#cn.xiaocool.wxtteacher.main.AddTrendActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:245:9-59
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:249:9-59
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:245:19-56
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:249:19-56
 activity#cn.xiaocool.wxtteacher.main.SpaceClikInfomationActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:246:9-70
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:250:9-70
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:246:19-67
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:250:19-67
 activity#cn.xiaocool.wxtteacher.main.ClikInfomationPrivilegeActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:247:9-74
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:251:9-74
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:247:19-71
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:251:19-71
 activity#cn.xiaocool.wxtteacher.main.TeacherStyleActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:248:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:252:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:248:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:252:19-60
 activity#cn.xiaocool.wxtteacher.main.TeacherInfoWebDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:249:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:253:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:249:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:253:19-68
 activity#cn.xiaocool.wxtteacher.main.ApplySchoolActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:250:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:254:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:250:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:254:19-59
 activity#cn.xiaocool.wxtteacher.main.ChildStarActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:251:9-60
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:255:9-60
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:251:19-57
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:255:19-57
 activity#cn.xiaocool.wxtteacher.main.AddressActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:252:9-58
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:256:9-58
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:252:19-55
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:256:19-55
 activity#cn.xiaocool.wxtteacher.main.TeacherCommunicationActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:253:9-71
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:257:9-71
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:253:19-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:257:19-68
 activity#cn.xiaocool.wxtteacher.main.AddNewsGroupActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:254:9-63
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:258:9-63
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:254:19-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:258:19-60
 activity#cn.xiaocool.wxtteacher.main.SettingActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:255:9-58
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:259:9-58
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:255:19-55
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:259:19-55
 activity#cn.xiaocool.wxtteacher.main.SuggestBackActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:256:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:260:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:256:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:260:19-59
 activity#cn.xiaocool.wxtteacher.main.AboutUsActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:257:9-58
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:261:9-58
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:257:19-55
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:261:19-55
 activity#cn.xiaocool.wxtteacher.main.FunctionWeekendPlanDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:258:9-76
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:262:9-76
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:258:19-73
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:262:19-73
 activity#cn.xiaocool.wxtteacher.main.UpdatePhoneActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:259:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:263:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:259:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:263:19-59
 activity#cn.xiaocool.wxtteacher.main.ClassEventReadAndNreadActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:260:9-73
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:264:9-73
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:260:19-70
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:264:19-70
 activity#cn.xiaocool.wxtteacher.main.IntroduceClassActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:261:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:265:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:261:19-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:265:19-62
 activity#cn.xiaocool.wxtteacher.main.PeopleCountActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:262:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:266:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:262:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:266:19-59
 activity#cn.xiaocool.wxtteacher.main.ChooseSubjectActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:263:9-64
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:267:9-64
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:263:19-61
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:267:19-61
 activity#cn.xiaocool.wxtteacher.main.ManyClassActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:264:9-60
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:268:9-60
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:264:19-57
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:268:19-57
 activity#cn.xiaocool.wxtteacher.main.ResetSecretActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:265:9-62
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:269:9-62
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:265:19-59
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:269:19-59
 activity#cn.xiaocool.wxtteacher.main.ShareAppActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:266:9-59
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:270:9-59
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:266:19-56
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:270:19-56
 activity#cn.xiaocool.wxtteacher.main.NoticeReciveDetailActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:267:9-69
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:271:9-69
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:267:19-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:271:19-66
 activity#cn.xiaocool.wxtteacher.main.SuggestListActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:268:9-61
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:272:9-61
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:268:19-59
-activity#cn.jpush.android.ui.PopWinActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:272:9-275:61
-	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:274:13-37
-	android:theme
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:275:13-49
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:272:19-59
+activity#cn.xiaocool.wxtteacher.camera.DeviceInfoListActivity
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:273:9-66
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:273:13-62
-activity#cn.jpush.android.ui.PushActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:278:9-289:20
-	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:281:13-37
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:273:19-64
+activity#cn.xiaocool.wxtteacher.camera.ez_camera.EZRealPlayActivity
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:274:9-276:51
+	android:screenOrientation
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:276:13-49
 	android:configChanges
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:280:13-63
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:275:13-74
+	android:name
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:274:19-70
+activity#cn.xiaocool.wxtteacher.camera.lc_camera.MediaPlayActivity
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:277:9-282:20
+	android:screenOrientation
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:281:13-49
+	android:exported
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:280:13-37
+	android:configChanges
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:279:13-74
+	android:name
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:278:13-65
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:286:9-289:61
+	android:exported
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:288:13-37
 	android:theme
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:282:13-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:289:13-49
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:279:13-60
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:287:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:292:9-303:20
+	android:exported
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:295:13-37
+	android:configChanges
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:294:13-63
+	android:theme
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:296:13-60
+	android:name
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:293:13-60
 intent-filter#${applicationId}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:283:13-288:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:297:13-302:29
 action#cn.jpush.android.ui.PushActivity
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:284:17-75
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:298:17-75
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:284:25-72
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:298:25-72
 category#android.intent.category.DEFAULT
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:286:17-76
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:300:17-76
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:286:27-73
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:300:27-73
 category#${applicationId}
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:287:17-61
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:301:17-61
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:287:27-58
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:301:27-58
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml
 service#cn.jpush.android.service.DownloadService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:291:9-294:48
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:305:9-308:48
 	android:enabled
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:293:13-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:307:13-35
 	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:294:13-37
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:308:13-37
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:292:13-68
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:306:13-68
 service#cn.xiaocool.wxtteacher.service.update.UpdateService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:295:9-65
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:309:9-65
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:295:18-62
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:309:18-62
 service#cn.jpush.android.service.PushService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:299:9-309:19
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:313:9-323:19
 	android:enabled
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:301:13-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:315:13-35
 	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:302:13-37
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:316:13-37
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:300:13-64
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:314:13-64
 intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:303:13-308:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:317:13-322:29
 action#cn.jpush.android.intent.REGISTER
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:304:17-75
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:318:17-75
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:304:25-72
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:318:25-72
 action#cn.jpush.android.intent.REPORT
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:305:17-73
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:319:17-73
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:305:25-70
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:319:25-70
 action#cn.jpush.android.intent.PushService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:306:17-78
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:320:17-78
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:306:25-75
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:320:25-75
 action#cn.jpush.android.intent.PUSH_TIME
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:307:17-76
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:321:17-76
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:307:25-73
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:321:25-73
 service#cn.jpush.android.service.DaemonService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:313:9-322:19
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:327:9-336:19
 	android:enabled
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:315:13-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:329:13-35
 	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:316:13-36
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:330:13-36
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:314:13-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:328:13-66
 intent-filter#${applicationId}+cn.jpush.android.intent.DaemonService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:317:13-321:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:331:13-335:29
 action#cn.jpush.android.intent.DaemonService
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:318:17-80
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:332:17-80
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:318:25-77
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:332:25-77
 receiver#cn.jpush.android.service.PushReceiver
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:325:9-345:20
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:339:9-359:20
 	android:enabled
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:327:13-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:341:13-35
 	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:328:13-37
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:342:13-37
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:326:13-65
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:340:13-65
 intent-filter#${applicationId}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:329:13-333:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:343:13-347:29
 	android:priority
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:329:28-51
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:343:28-51
 action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:330:17-94
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:344:17-94
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:330:25-91
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:344:25-91
 intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:334:13-337:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:348:13-351:29
 action#android.intent.action.USER_PRESENT
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:335:17-77
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:349:17-77
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:335:25-74
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:349:25-74
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:336:17-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:350:17-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:336:25-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:350:25-76
 intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:339:13-344:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:353:13-358:29
 action#android.intent.action.PACKAGE_ADDED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:340:17-78
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:354:17-78
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:340:25-75
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:354:25-75
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:341:17-80
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:355:17-80
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:341:25-77
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:355:25-77
 data
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:343:17-50
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:357:17-50
 	android:scheme
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:343:23-47
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:357:23-47
 receiver#cn.jpush.android.service.AlarmReceiver
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:348:9-350:40
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:362:9-364:40
 	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:350:13-37
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:364:13-37
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:349:13-66
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:363:13-66
 receiver#cn.xiaocool.wxtteacher.service.PushReceiver
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:353:9-374:20
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:367:9-388:20
 	android:enabled
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:355:13-35
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:369:13-35
 	android:exported
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:356:13-37
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:370:13-37
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:354:13-49
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:368:13-49
 intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.xiaocool.wxtteacher
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:357:13-373:29
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:371:13-387:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:358:17-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:372:17-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:358:25-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:372:25-76
 action#cn.jpush.android.intent.REGISTRATION
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:360:17-79
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:374:17-79
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:360:25-76
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:374:25-76
 action#cn.jpush.android.intent.MESSAGE_RECEIVED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:362:17-83
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:376:17-83
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:362:25-80
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:376:25-80
 action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:364:17-88
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:378:17-88
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:364:25-85
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:378:25-85
 action#cn.jpush.android.intent.NOTIFICATION_OPENED
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:366:17-86
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:380:17-86
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:366:25-83
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:380:25-83
 action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:368:17-91
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:382:17-91
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:368:25-88
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:382:25-88
 action#cn.jpush.android.intent.CONNECTION
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:370:17-77
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:384:17-77
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:370:25-74
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:384:25-74
 category#cn.xiaocool.wxtteacher
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:372:17-67
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:386:17-67
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:372:27-64
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:386:27-64
 meta-data#JPUSH_CHANNEL
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:377:9-379:49
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:391:9-393:49
 	android:value
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:379:13-46
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:393:13-46
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:378:13-41
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:392:13-41
 meta-data#JPUSH_APPKEY
-ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:380:9-382:56
+ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:394:9-396:56
 	android:value
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:382:13-53
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:396:13-53
 	android:name
-		ADDED from /Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/AndroidManifest.xml:381:13-40
+		ADDED from F:\wxt_teacher_android\app\src\main\AndroidManifest.xml:395:13-40
 activity#com.xys.libzxing.zxing.activity.CaptureActivity
-ADDED from [wxt_teacher_android:libzxing:unspecified] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/wxt_teacher_android/libzxing/unspecified/AndroidManifest.xml:17:9-84
+ADDED from [wxt_teacher_android:libzxing:unspecified] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\wxt_teacher_android\libzxing\unspecified\AndroidManifest.xml:17:9-84
 	android:name
-		ADDED from [wxt_teacher_android:libzxing:unspecified] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/wxt_teacher_android/libzxing/unspecified/AndroidManifest.xml:17:19-81
+		ADDED from [wxt_teacher_android:libzxing:unspecified] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\wxt_teacher_android\libzxing\unspecified\AndroidManifest.xml:17:19-81
 activity#cn.finalteam.galleryfinal.PhotoSelectActivity
-ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:21:9-23:52
+ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:21:9-23:52
 	android:screenOrientation
-		ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:23:13-49
+		ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:23:13-49
 	android:name
-		ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:22:13-73
+		ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:22:13-73
 activity#cn.finalteam.galleryfinal.PhotoEditActivity
-ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:24:9-26:52
+ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:24:9-26:52
 	android:screenOrientation
-		ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:26:13-49
+		ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:26:13-49
 	android:name
-		ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:25:13-71
+		ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:25:13-71
 activity#cn.finalteam.galleryfinal.PhotoPreviewActivity
-ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:27:9-29:52
+ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:27:9-29:52
 	android:screenOrientation
-		ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:29:13-49
+		ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:29:13-49
 	android:name
-		ADDED from [cn.finalteam:galleryfinal:1.4.6] /Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.6/AndroidManifest.xml:28:13-74
+		ADDED from [cn.finalteam:galleryfinal:1.4.6] F:\wxt_teacher_android\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.6\AndroidManifest.xml:28:13-74

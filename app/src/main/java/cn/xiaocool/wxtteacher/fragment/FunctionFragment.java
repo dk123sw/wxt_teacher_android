@@ -2,6 +2,7 @@ package cn.xiaocool.wxtteacher.fragment;
 
 import android.app.Fragment;
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
@@ -41,6 +42,7 @@ import cn.xiaocool.wxtteacher.R;
 import cn.xiaocool.wxtteacher.adapter.SelectClassAdapter;
 import cn.xiaocool.wxtteacher.bean.ClassList;
 import cn.xiaocool.wxtteacher.bean.UserInfo;
+import cn.xiaocool.wxtteacher.camera.DeviceInfoListActivity;
 import cn.xiaocool.wxtteacher.dao.CommunalInterfaces;
 import cn.xiaocool.wxtteacher.main.FunctionWeekendPlanActivity;
 import cn.xiaocool.wxtteacher.main.SpaceBabyAlbumActivity;
@@ -70,7 +72,7 @@ public class FunctionFragment extends Fragment implements View.OnClickListener {
     private RelativeLayout baby_courseware, baby_album, baby_confirm, baby_leave, baby_recipes, baby_activity, funciion_schoolweb, rlIntroduce, teacherReview, attendance, class_courseware, function_weekendplan, space_class_attrndance, space_info_shenhe, funciton_header;
     private ImageView space_grown;
     private RoundImageView iv_me_fragment_avatar;
-    private TextView teacher_name,teacher_introduce,school_name;
+    private TextView teacher_name,teacher_introduce,school_name,baby_video;
     private DisplayImageOptions options;
     private UserInfo user = new UserInfo();
     private LinearLayout class_change;
@@ -149,6 +151,8 @@ public class FunctionFragment extends Fragment implements View.OnClickListener {
         btn_daijie.setTargetView(baby_confirm);
         btn_leave = new BadgeView(getActivity());
         btn_leave.setTargetView(baby_leave);
+        baby_video = (TextView) getView().findViewById(R.id.main_baobaoshipin);
+        baby_video.setOnClickListener(this);
     }
 
     @Override
@@ -263,6 +267,11 @@ public class FunctionFragment extends Fragment implements View.OnClickListener {
             //切换班级
             case R.id.class_change:
                 showPopupWindow();
+                break;
+            //宝宝视频
+            case R.id.main_baobaoshipin:
+                Intent intent = new Intent(mContext, DeviceInfoListActivity.class);
+                startActivity(intent);
                 break;
         }
     }

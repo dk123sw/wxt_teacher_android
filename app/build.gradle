@@ -18,6 +18,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
 }
 
 
@@ -26,7 +31,7 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
     compile project(':libzxing')
-//    compile project(':easeui')
+    //    compile project(':easeui')
     compile 'com.android.support:multidex:'
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile 'com.android.support:design:23.4.0'
@@ -58,4 +63,6 @@ dependencies {
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
     compile files('libs/badgeview.jar')
     compile 'com.lguipeng.bubbleview:library:1.0.0'
+    compile files('libs/EZOpenSDK.jar')
+    compile files('libs/lechangeSDK.jar')
 }

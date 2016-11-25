@@ -98,4 +98,17 @@
     <color name="list_content_color">#262626</color>
     <color name="list_time_color">#979995</color>
     <color name="list_remark_color">#515050</color>
+
+
+    <color name="quality_focused_color">#448cf3</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="dark_bg_70p">#bb000000</color>
+
+    <!-- Common -->
+    <color name="lc_bg_color">#efeff4</color>
+    <color name="lc_media_color">#000000</color>
+    <!-- Title -->
+    <color name="title_color_background">#FFFFFF</color>
+    <color name="title_color_divider">#CFCFCF</color>
+    <color name="title_color_center">#505166</color>
 </resources>

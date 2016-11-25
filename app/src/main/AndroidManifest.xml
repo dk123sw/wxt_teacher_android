@@ -142,6 +142,10 @@
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
     <uses-permission android:name="android.permission.GET_TASKS" />
 
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+
     <!-- 以下是活动的注册 -->
     <application
         android:name=".view.WxtApplication"
@@ -266,6 +270,16 @@
         <activity android:name=".main.ShareAppActivity" />
         <activity android:name=".main.NoticeReciveDetailActivity" />
         <activity android:name=".main.SuggestListActivity"/>
+        <activity android:name=".camera.DeviceInfoListActivity"/>
+        <activity android:name=".camera.ez_camera.EZRealPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name = ".camera.lc_camera.MediaPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
 
 
         <!-- Rich push 核心功能 since 2.0.6 -->

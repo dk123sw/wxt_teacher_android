@@ -143,6 +143,9 @@
     <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
     <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
 
     <!-- 以下是活动的注册 -->
     <application
@@ -268,6 +271,17 @@
         <activity android:name="cn.xiaocool.wxtteacher.main.ShareAppActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.NoticeReciveDetailActivity" />
         <activity android:name="cn.xiaocool.wxtteacher.main.SuggestListActivity" />
+        <activity android:name="cn.xiaocool.wxtteacher.camera.DeviceInfoListActivity" />
+        <activity
+            android:name="cn.xiaocool.wxtteacher.camera.ez_camera.EZRealPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cn.xiaocool.wxtteacher.camera.lc_camera.MediaPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:screenOrientation="portrait" >
+        </activity>
 
         <!-- Rich push 核心功能 since 2.0.6 -->
         <activity

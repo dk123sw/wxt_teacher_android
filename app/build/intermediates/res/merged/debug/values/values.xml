@@ -66,6 +66,7 @@
     <color name="common_bottom_bar_selected_bg">#161718</color>
     <color name="common_botton_bar_blue">#2ea7e0</color>
     <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="dark_bg_70p">#bb000000</color>
     <color name="default_desc">#ff747474</color>
     <color name="default_desc_night">#ff505050</color>
     <color name="default_text">#ff454545</color>
@@ -107,6 +108,8 @@
     <color name="holo_red_light">#ffff4444</color>
     <color name="kprogresshud_default_color">#b1000000</color>
     <color name="kprogresshud_grey_color">#449E9E9E</color>
+    <color name="lc_bg_color">#efeff4</color>
+    <color name="lc_media_color">#000000</color>
     <color name="list_content_color">#262626</color>
     <color name="list_itease_primary_color">#000</color>
     <color name="list_itease_secondary_color">#888888</color>
@@ -136,6 +139,7 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="quality_focused_color">#448cf3</color>
     <color name="red">#eb382f</color>
     <color name="remind_infomation_bg_color">#FFFFFFFF</color>
     <color name="ripple_material_dark">#33ffffff</color>
@@ -181,8 +185,12 @@
     <color name="thb_yellow">#F9B747</color>
     <color name="title_bg_color">#9BE5B4</color>
     <color name="title_color">#ffffffff</color>
+    <color name="title_color_background">#FFFFFF</color>
+    <color name="title_color_center">#505166</color>
+    <color name="title_color_divider">#CFCFCF</color>
     <color name="title_text_color">#ffffffff</color>
     <color name="top_bar_normal_bg">#00acff</color>
+    <color name="transparent">#00ffffff</color>
     <color name="view_color">#dfdfdf</color>
     <color name="voip_interface_text_color">#bababa</color>
     <color name="whilte">#ffffff</color>
@@ -233,6 +241,11 @@
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
+    <declare-styleable name="LoadingTextView"><attr name="textStyle">
+            <enum name="noText" value="-1"/>
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="integer" name="gravity"/><attr format="dimension" name="textSize"/><attr format="color" name="textColor"/><attr format="dimension" name="textPadding"/><attr name="android:text"/></declare-styleable>
     <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
@@ -388,6 +401,7 @@
     <dimen name="call_button_padding_vertical">10dp</dimen>
     <dimen name="chat_nick_margin_left">12dp</dimen>
     <dimen name="chat_nick_text_size">13sp</dimen>
+    <dimen name="common_divider_height">0.5dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_sheet_modal_elevation">16dp</dimen>
     <dimen name="design_bottom_sheet_modal_peek_height">256dp</dimen>
@@ -438,6 +452,8 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="leavemessage_text_size">12dp</dimen>
+    <dimen name="loading_text_size">15dp</dimen>
     <dimen name="margin_chat_activity">5dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -448,6 +464,16 @@
     <dimen name="picture_pull_to_refresh_last_update_time_text_size">10dp</dimen>
     <dimen name="picture_pull_to_refresh_last_update_time_top_margin">6dp</dimen>
     <dimen name="picture_pull_to_refresh_loading_text_size">14dp</dimen>
+    <dimen name="realplay_button_text_size">15dp</dimen>
+    <dimen name="realplay_channel_text_size">9dp</dimen>
+    <dimen name="realplay_ratio_text_size">24dp</dimen>
+    <dimen name="realplay_text_size">12dp</dimen>
+    <dimen name="realplay_tip_text_size">16dp</dimen>
+    <dimen name="remoteplayback_button_text_size">15dp</dimen>
+    <dimen name="remoteplayback_channel_text_size">9dp</dimen>
+    <dimen name="remoteplayback_ratio_text_size">24dp</dimen>
+    <dimen name="remoteplayback_text_size">12dp</dimen>
+    <dimen name="remoteplayback_tip_text_size">16dp</dimen>
     <dimen name="sidebar_text_size">10dp</dimen>
     <dimen name="size_avatar">50dp</dimen>
     <dimen name="text_size_10">12sp</dimen>
@@ -456,6 +482,10 @@
     <dimen name="text_size_18">18sp</dimen>
     <dimen name="text_size_20">20sp</dimen>
     <dimen name="text_size_8">8sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_mid">15sp</dimen>
+    <dimen name="text_size_mini">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
     <dimen name="title_bar_height">44.0dip</dimen>
     <dimen name="view_padding">6dp</dimen>
     <dimen name="view_small_padding">1dp</dimen>
@@ -540,6 +570,7 @@
     <string name="address_title3.3">(15)</string>
     <string name="address_title3.4">(8)</string>
     <string name="all_photo">All Photo</string>
+    <string name="already_saved_to_volume">已保存至相册</string>
     <string name="announcement">系统公告</string>
     <string name="app_name">智校园教师</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -553,10 +584,13 @@
     <string name="btn_recipes_text">食谱</string>
     <string name="btn_teacher_text">考勤</string>
     <string name="btn_website_text">学校官网</string>
+    <string name="capture">截图</string>
     <string name="change_password">修改密码</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="clean_cache">清除缓存</string>
     <string name="clock">扫一扫打卡</string>
+    <string name="common_loading">努力加载中</string>
+    <string name="countdown">留言时长还剩%d秒</string>
     <string name="crop_fail">Photo crop failure</string>
     <string name="crop_suc">Photo crop success</string>
     <string name="diary_menu_title">成长日记</string>
@@ -578,6 +612,8 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_world">Hello world!</string>
     <string name="help">使用帮助</string>
+    <string name="live_play_name">实时预览</string>
+    <string name="loading_text_default">加载中，请稍候</string>
     <string name="maintain">维护人员</string>
     <string name="maintain_phonenum">18866866686</string>
     <string name="me_add_tag_text">添加标签</string>
@@ -661,9 +697,21 @@
     <string name="pushmsg_center_pull_release_text">松开获取更多</string>
     <string name="pushmsg_center_pull_up_text">松开加载更多</string>
     <string name="qrcode_dowland">二维码下载</string>
+    <string name="quality_balanced">均衡</string>
+    <string name="quality_flunet">流畅</string>
+    <string name="quality_hd">高清</string>
     <string name="rank">排名</string>
     <string name="rank2">13</string>
+    <string name="realplay_fail_connect_device">播放失败，连接设备异常</string>
+    <string name="realplay_fail_device_not_exist">设备不在线</string>
+    <string name="realplay_play_fail">视频播放失败</string>
+    <string name="realplay_play_fail_becauseof_network">视频播放失败，请检查您的网络</string>
+    <string name="realplay_set_fail_network">设置失败，请检查您的网络</string>
+    <string name="realplay_set_vediomode_fail">视频质量切换失败</string>
     <string name="register_input_phone">输入手机号码</string>
+    <string name="remoteplayback_SDCard_disable_use">存储卡不可用</string>
+    <string name="remoteplayback_capture_fail_for_memory">抓图失败,存储空间已满</string>
+    <string name="remoteplayback_over_link">设备连接数过大，停止其他连接后再试试吧</string>
     <string name="saving">Saving picture…</string>
     <string name="score">积分</string>
     <string name="score2">256</string>
@@ -695,6 +743,7 @@
     <string name="setting_menu_title">设置</string>
     <string name="setting_praise">打赏好评</string>
     <string name="setting_update_version">检查更新</string>
+    <string name="setting_video_level">正在设置画面质量…</string>
     <string name="setting_wipe_cache">清理缓存</string>
     <string name="space_album_button2">催一下</string>
     <string name="space_album_title1">爸爸妈妈好久没有上传照片了。</string>
@@ -719,6 +768,14 @@
     <string name="update_download_processing">正在下载</string>
     <string name="update_download_start">下载开始</string>
     <string name="versionid">10</string>
+    <string name="video_monitor_change_stream_hd">正在切换成"高清"模式</string>
+    <string name="video_monitor_change_stream_normal">正在切换成"流畅"模式</string>
+    <string name="video_monitor_image_capture_failed">截图失败</string>
+    <string name="video_monitor_image_capture_success">截图成功</string>
+    <string name="video_monitor_load_talk_sound_error">缓冲或对讲中，无法开启声音</string>
+    <string name="video_monitor_play_error">画面打开失败,请检查网络或摄像头后重试</string>
+    <string name="video_monitor_sound_close">声音关闭</string>
+    <string name="video_monitor_sound_open">声音打开</string>
     <string name="waiting">Please wait…</string>
     <string name="web_introduce_text">      幼儿园建于2004年9月，占地面积有3.25亩,房屋建筑面积1800多个平方，绿化面积占有200个平方，可同时容纳800名幼儿入园。现在园幼儿406名，分为学前、大中小10个班，园内共有29名教职工，其中具有幼师资格的专业教师10名，另外还配有11名保育员，勤杂工1名，炊事员2名，保安3名，驾驶员2名，是我市目前规模最大的私立幼儿园。</string>
     <string name="web_menu_title">校网</string>
@@ -1853,6 +1910,18 @@
         <item name="android:backgroundDimEnabled">false</item>
         <!-- 模糊 -->
     </style>
+    <style name="LoadingTextView">
+        <item name="textStyle">vertical</item>
+        <item name="textColor">@color/gray</item>
+        <item name="textSize">12sp</item>
+        <item name="textPadding">5dp</item>
+        <item name="android:text">@string/loading_text_default</item>
+    </style>
+    <style name="LoadingTextView_Percent" parent="LoadingTextView">
+        <item name="textPadding">10dp</item>
+        <item name="textSize">15sp</item>
+        <item name="android:text"/>
+    </style>
     <style name="MMTabButton">
         <item name="android:textSize">14.0dip</item>
         <item name="android:gravity">center_horizontal</item>
@@ -2215,6 +2284,11 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="TitleBar_Dark">
+        <item name="textColor">@android:color/white</item>
+        <item name="background">@color/dark_bg_70p</item>
+        <!--<item name="backButton">@drawable/message_back_selector</item>-->
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">

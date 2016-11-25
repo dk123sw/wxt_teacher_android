@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\address_menu.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\menu\\address_menu.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/menu/menu_main.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/build/intermediates/res/merged/debug/menu/address_menu.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/app/src/main/res/menu/address_menu.xml"
-    },
-    {
-        "merged": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "/Users/xiaocool/Desktop/android/wxt_teacher_android/E:\\work\\wxt_teacher_android-1\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "F:\\wxt_teacher_android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\address_menu.xml",
+        "source": "F:\\wxt_teacher_android\\app\\src\\main\\res\\menu\\address_menu.xml"
     }
 ]

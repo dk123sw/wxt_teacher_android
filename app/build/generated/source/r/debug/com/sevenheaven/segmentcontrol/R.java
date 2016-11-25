@@ -8,26 +8,26 @@ package com.sevenheaven.segmentcontrol;
 
 public final class R {
 	public static final class attr {
-		public static final int boundWidth = 0x7f010134;
-		public static final int colors = 0x7f010130;
-		public static final int cornerRadius = 0x7f01012f;
-		public static final int direction = 0x7f010133;
-		public static final int gaps = 0x7f010136;
-		public static final int horizonGap = 0x7f010137;
-		public static final int separatorWidth = 0x7f010135;
-		public static final int textSelectedColors = 0x7f010131;
-		public static final int texts = 0x7f010132;
-		public static final int verticalGap = 0x7f010138;
+		public static final int boundWidth = 0x7f010139;
+		public static final int colors = 0x7f010135;
+		public static final int cornerRadius = 0x7f010134;
+		public static final int direction = 0x7f010138;
+		public static final int gaps = 0x7f01013b;
+		public static final int horizonGap = 0x7f01013c;
+		public static final int separatorWidth = 0x7f01013a;
+		public static final int textSelectedColors = 0x7f010136;
+		public static final int texts = 0x7f010137;
+		public static final int verticalGap = 0x7f01013d;
 	}
 	public static final class id {
-		public static final int horizon = 0x7f0e0045;
-		public static final int vertical = 0x7f0e0046;
+		public static final int horizon = 0x7f0e0048;
+		public static final int vertical = 0x7f0e003e;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f070170;
+		public static final int app_name = 0x7f070171;
 	}
 	public static final class styleable {
-		public static final int[] SegmentControl = { 0x01010095, 0x7f01012f, 0x7f010130, 0x7f010131, 0x7f010132, 0x7f010133, 0x7f010134, 0x7f010135, 0x7f010136, 0x7f010137, 0x7f010138 };
+		public static final int[] SegmentControl = { 0x01010095, 0x7f010134, 0x7f010135, 0x7f010136, 0x7f010137, 0x7f010138, 0x7f010139, 0x7f01013a, 0x7f01013b, 0x7f01013c, 0x7f01013d };
 		public static final int SegmentControl_android_textSize = 0;
 		public static final int SegmentControl_boundWidth = 6;
 		public static final int SegmentControl_colors = 2;

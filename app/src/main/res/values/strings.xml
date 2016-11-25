@@ -242,4 +242,33 @@
     <string name="update_download_start">下载开始</string>
     <string name="update_download_new_version">有新版本</string>
 
+    <string name="loading_text_default">加载中，请稍候</string>
+    <string name="realplay_fail_device_not_exist">设备不在线</string>
+    <string name="countdown">留言时长还剩%d秒</string>
+    <string name="quality_hd">高清</string>
+    <string name="quality_balanced">均衡</string>
+    <string name="quality_flunet">流畅</string>
+    <string name="capture">截图</string>
+    <string name="realplay_set_fail_network">设置失败，请检查您的网络</string>
+    <string name="setting_video_level">正在设置画面质量…</string>
+    <string name="already_saved_to_volume">已保存至相册</string>
+    <string name="remoteplayback_SDCard_disable_use">存储卡不可用</string>
+    <string name="remoteplayback_capture_fail_for_memory">抓图失败,存储空间已满</string>
+    <string name="realplay_play_fail_becauseof_network">视频播放失败，请检查您的网络</string>
+    <string name="realplay_set_vediomode_fail">视频质量切换失败</string>
+    <string name="remoteplayback_over_link">设备连接数过大，停止其他连接后再试试吧</string>
+    <string name="realplay_fail_connect_device">播放失败，连接设备异常</string>
+    <string name="realplay_play_fail">视频播放失败</string>
+
+    <string name="video_monitor_play_error">画面打开失败,请检查网络或摄像头后重试</string>
+    <string name="common_loading">努力加载中</string>
+    <string name="video_monitor_image_capture_success">截图成功</string>
+    <string name="video_monitor_image_capture_failed">截图失败</string>
+    <string name="video_monitor_change_stream_normal">正在切换成"流畅"模式</string>
+    <string name="video_monitor_change_stream_hd">正在切换成"高清"模式</string>
+    <string name="video_monitor_load_talk_sound_error">缓冲或对讲中，无法开启声音</string>
+    <string name="video_monitor_sound_open">声音打开</string>
+    <string name="video_monitor_sound_close">声音关闭</string>
+    <string name="live_play_name">实时预览</string>
+
 </resources>
